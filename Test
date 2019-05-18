@@ -1,1 +1,30 @@
+#EXTM3U
 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://wwwimage-secure.cbsstatic.com/thumbnails/photos/w1200-h630-c1200:630/blog/87fdad6e1b37da4a_cbs_sports_hq_1920.jpg" group-title="Sports",CBS Sports HQ
+https://sportshq-mediapackage-cedexis.cbsaavideo.com/out/v1/be87d7783e5c4270a5830ea5d1164850/desktop_5.m3u8
+# https://cbssportsdc-i.akamaihd.net/hls/live/518856/dc_1/desktop.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pfBfl7i.jpg" buffer="10" group-title="Sports",Aclee kek
+http://live.memesyndicate.com/live/fucknetresult/index.m3u8
+# http://live.memesyndicate.com/live/thx/index.m3u8
+# http://80.memesyndicate.com/live/thx/index.m3u8
+# https://rtmp2.memesyndicate.com/live/eagles/index.m3u8
+# http://1-edge5-us-east.picarto.tv/hls/acleee/index.m3u8
+# http://108.61.245.2/live/thx/index.m3u8
+# http://nicks.memesyndicate.com/acleetv/acleetv/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xAVVVdY.jpg" group-title="Sports",Pasta LoL
+https://pasta.stream:8443/live/main/index.m3u8
+# https://hls.pasta.stream:8443/live/main/index.m3u8
+# http://rtmp.pasta.stream:8085/live/main/index.m3u8
+# http://rtmp.pasta.stream:8080/live/main/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://krtnradio.com/wp/wp-content/uploads/2015/05/Unknown.jpeg" group-title="Sports",Blabseal
+http://75.101.159.235:1935/live/test/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xAVVVdY.jpg" group-title="24/7",Pasta Alt
+http://voo.memesyndicate.com/uplynk.m3u8
+# from: https://memesyndicate.com/alt
+# https://voo.memesyndicate.com/csn-master.m3u8
+# https://hls.pasta.stream:8443/live/alt/index.m3u8

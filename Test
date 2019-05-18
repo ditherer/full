@@ -1,8 +1,8 @@
 #EXTM3U
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://wwwimage-secure.cbsstatic.com/thumbnails/photos/w1200-h630-c1200:630/blog/87fdad6e1b37da4a_cbs_sports_hq_1920.jpg" group-title="Sports",CBS Sports HQ
-https://sportshq-mediapackage-cedexis.cbsaavideo.com/out/v1/be87d7783e5c4270a5830ea5d1164850/desktop_5.m3u8
+https://sportshq-mediapackage-cedexis.cbsaavideo.com/out/v1/be87d7783e5c4270a5830ea5d1164850/desktop_7.m3u8
+# https://sportshq-mediapackage-cedexis.cbsaavideo.com/out/v1/be87d7783e5c4270a5830ea5d1164850/desktop_5.m3u8
 # https://cbssportsdc-i.akamaihd.net/hls/live/518856/dc_1/desktop.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pfBfl7i.jpg" buffer="10" group-title="Sports",Aclee kek
@@ -28,3 +28,436 @@ http://voo.memesyndicate.com/uplynk.m3u8
 # from: https://memesyndicate.com/alt
 # https://voo.memesyndicate.com/csn-master.m3u8
 # https://hls.pasta.stream:8443/live/alt/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7",Current Event 1
+http://fsdvbgfnffedsd.ivcvi.club/t/chunks.m3u8
+# http://11.shacs.club/hls/live.m3u8
+# http://37.48.83.12:8081/live/tnt/chunks.m3u8
+# http://sefefdfjkfdne.ivcvi.club/c/chunks.m3u8
+# http://ibm1-live-hls.secure.footprint.net/ibmmasters/live/fg/master_5000.m3u8
+# http://www.masters.com/multimedia/cl_aug_fg_Desktop.m3u8
+# http://doxeaz06.cf/live/Pacers/chunks.m3u8
+# http://www.365betstream.pw/soccer/playlist.m3u8
+# http://163.172.218.205:8081/T/1/index.m3u8
+# http://gil8.azureedge.net/hls/1.m3u8
+# http://f10.eduarpack2.xyz/hls/1a.m3u8
+# http://n4l4.azureedge.net/1.m3u8
+# http://c5.nba4live.online/hls/1.m3u8
+# http://d1.nba4live.club/hls/1.m3u8
+# http://d1.nba4live.xyz/hls/1.m3u8
+# http://c5.nba4live.club/hls/1.m3u8
+# cycle 1 for more games
+# https://www.reddit.com/user/nba4live2019
+# https://hls.pasta.stream:8443/live/hbo/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 2 
+http://11.sulae.club/hls/live.m3u8
+# http://doxeaz06.cf/live/Rockets/chunks.m3u8
+# https://devicecbsnews-a.akamaihd.net/media/mpx/2019/04/04/1472842307686/0414_60Minutes_FullEpisode_1829337_3500/0414_60Minutes_FullEpisode_1829337_3500.m3u8
+# http://37.48.83.12:8081/live/tnt/chunks.m3u8
+# http://cdn.youpit.site/live/yp1/chunks.m3u8
+# http://bnk.sportz.is/espn2.m3u8
+# http://pasta.stream/IPTV/tnt.m3u8
+# http://doxeaz06.cf/live/Nets/chunks.m3u8
+# http://voo.memesyndicate.com/wolf.m3u8
+# https://hls.pasta.stream:8443/live/show/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 3
+http://crackstreams.com/nba1.m3u8
+# http://37.48.83.12:8081/live/TNT/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/j55hDLp.png" group-title="24/7", Current Event 4
+http://37.48.83.12:8081/live/TNT/chunks.m3u8
+# http://streams.easysport.tv/live/easysport1/chunks.m3u8
+# http://185.246.209.220/tnt_hd/tracks-v1a1/mono.m3u8
+# http://1520893312.rsc.contentproxy9.cz/TNT/index.m3u8
+# http://azulitocdn.ga/live/Rockets/chunks.m3u8
+# http://voo.memesyndicate.com/nbc.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pfBfl7i.jpg" buffer="10" group-title="Sports", ESPN
+http://espn.clinicalkey.icu/cache/espn1.m3u8
+# https://pasta.stream/IPTV/espn.m3u8
+# http://espn.clinicalkey.icu/cache/espn1.m3u8
+# http://198.255.114.146:8080/ESPN/index.m3u8
+# http://bnk.sportz.is/espn2.m3u8
+# http://sports24.club/live/m3u8/x2.m3u8?ch=espn1
+# http://198.255.114.146:8080/ESPN/tracks-v1a1/mono.m3u8
+# http://espn.clinicalkey.icu/cache/espn1.m3u8
+# https://www.reddit.com/user/penn451
+# 2 and abc,sec similar http://us-sf.9livestream.com/cache/espn1.m3u8
+# http://voo.memesyndicate.com/uplynk.m3u8
+# http://voo.memesyndicate.com/espn/espn-p-4500.m3u8
+# https://hls.pasta.stream:8443/live/espn/index.m3u8
+# http://rtmp.pasta.stream:8085/live/espn/index.m3u8
+# http://voo.memesyndicate.com/espn.m3u8
+# buffer="10000" put in espn kek and grandma after jpg quotes
+# http://remote.pasta.stream:8085/live/alt/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pfBfl7i.jpg" buffer="10" group-title="Sports", ESPN 2
+http://espn.clinicalkey.icu/cache/espn2.m3u8
+# can replace espn with espnews or espnu
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/a/a5/Abc_Logo.png" group-title="Sports",ABC
+http://espn.clinicalkey.icu/cache/abc.m3u8
+# http://acesports.win/abc.m3u8
+# http://159.89.142.208/ne2/index.m3u8
+# http://198.255.114.146:8080/TNT/index.m3u8
+# http://www.365betstream.pw/stream/live3/playlist.m3u8
+# http://d3ta49zynby19h.cloudfront.net/live.m3u8
+# http://voo.memesyndicate.com/abc.m3u8
+# http://icelz.6te.net/abc.m3u8
+# https://klive-a.akamaihd.net/dc-1/live/hls/p/2306121/e/1_gesowtz8/sd/6000/t/y1SPmwgq_dJfURQEoU8kUA/master.m3u8
+# http://sasastreams.pw/abc.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/a/a5/Abc_Logo.png" group-title="Sports",CBS
+https://centstreamswut.gq/cbs.m3u8
+# https://pasta.stream/IPTV/espn.m3u8
+# http://1520893312.rsc.contentproxy9.cz/CBS/index.m3u8
+# http://hollyuanderson.s3-accelerate.amazonaws.com/espn.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pmcdeadline2.files.wordpress.com/2018/01/golf-channel-logo.jpg" group-title="Sports",GOLF 
+http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/a/a5/Abc_Logo.png" group-title="Sports",Hackey
+http://hackey.stream/hls/test.m3u8
+# http://acesports.stream/nbc.m3u8
+# http://d1mqhyxgw4vyow.cloudfront.net/tv/dxcbae5rrr4th_fox.m3u8
+# http://d32sbcdbzgcfao.cloudfront.net/tv/d3hgbti2elt9yb_fs1_114.m3u8
+# https://dhvxnkzza3crt.cloudfront.net/index_5.m3u8
+# http://icelz.6te.net/abc.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vice-images.vice.com/images/articles/meta/2015/11/04/were-launching-a-tv-channel-194-1446653542.jpg" group-title="24/7",Hack 2
+https://hackey.stream/hls2/test.m3u8
+# http://yoursports.stream/nfl/nbc3.m3u8
+# http://37.48.83.12:8081/live/fs-spurs/chunks.m3u8
+# http://doxeaz06.cf/live/Spurs/chunks.m3u8
+# http://173.208.141.114/stream/nfl1/playlist.m3u8
+# http://173.208.141.114/stream/redzone/playlist.m3u8 https://www.reddit.com/user/golden__oak
+# http://108.61.245.92/live/wlcm/index.m3u8
+# https://hls.memesyndicate.com/live/wlcm/index.m3u8
+# http://rtmp.pasta.stream:8085/live/vice/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/989547250358669313/QaiNCiLy_400x400.jpg" group-title="Sports",TNT OT Rip
+https://tntovertime.akamaized.net/hls/live/717305/action/master.m3u8
+# http://37.48.83.12:8081/live/raptors/playlist.m3u8
+# http://doxeaz06.cf/live/Jazz/chunks.m3u8
+# http://bnk.sportz.is/espn3.m3u8
+# http://voo.memesyndicate.com/philliesm3u8?bitrate=5600&.m3u8
+# https://1-edge4-us-east.picarto.tv/mp4/AlienVsMan.mp4
+# http://185.101.98.107/live/Trump2020/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/96/43/b0/9643b0f3-8b13-3a0f-f2b8-30ae0572431a/mzl.owlzokbk.png/246x0w.jpg" group-title="Sports",NBA Navi
+http://1996frank.seekseedrtl.info/91/91.m3u8
+# http://car4.navixsport.com/91/91.m3u8
+# http://sar2.navixsport.com//92.m3u8
+# http://ira2.navixsport.com/91/91.m3u8
+# http://mn.seekseedrtl.info/91/91.m3u8
+# http://op.90mingoal.com/91/91.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.underconsideration.com/brandnew/archives/nba_others_nba_tv.png" group-title="Sports", Navi 2
+http://1996frank.seekseedrtl.info/92/92.m3u8
+# http://g.bankai.stream/espn2.m3u8
+# http://ripple.is/live/espn3.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.underconsideration.com/brandnew/archives/nba_others_nba_tv.png" group-title="Sports", Navi 3
+http://1996frank.seekseedrtl.info/93/93.m3u8
+# http://g.bankai.stream/espn2.m3u8
+# http://ripple.is/live/espn3.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pfBfl7i.jpg" group-title="Sports",CNBC
+https://1674331492.rsc.cdn77.org/LS-ATL-54548-14/tracks-v1a1/mono.m3u8
+# https://vip7stream.pw/lba/123/g4/bt3sport.m3u8
+# http://unlockyourtv.com:8000/live/charles/charles/1082.m3u8
+# http://108.61.245.92/live/wlcm/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pfBfl7i.jpg" group-title="Sports",Bloomberg
+https://bblive-liveproduseast.hs.llnwd.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+# http://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8 adaptive
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.underconsideration.com/brandnew/archives/nba_others_nba_tv.png" group-title="Sports", Current Event 1 
+https://cdn101.expresspremium.icu/hls/exprestream1/chunks.m3u8
+# http://cdn.givemereddit.stream:8081/live/skyhd/chunks.m3u8
+# http://crackstreams.com/nba1.m3u8
+# https://pasta.stream/IPTV/tntm3u8?id=24998&bitrate=4500&.m3u8
+# http://cdn.youpit.site/live/btsport/chunks.m3u8
+# http://azulitocdn.cf/live/Thunder/chunks.m3u8
+# http://g.bankai.stream/espn2.m3u8
+# http://ripple.is/live/espn3.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6v5aFgb.jpg" group-title="Sports", Current Event 2
+http://11.uralu.club/hls2/live.m3u8
+# http://cdn.youpit.site/live/yp4/chunks.m3u8
+# http://cdn.youpit.site/live/yp3/chunks.m3u8
+# http://11.upsil.live/hls3/live.m3u8
+# http://doxeaz06.cf/live/Clippers/chunks.m3u8
+# http://365betstream.pw/stream/live11/playlist.m3u8
+
+# EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2.bp.blogspot.com/-V3sYLaSAJ4Y/UPor1iFQeGI/AAAAAAAAV8o/Yixri3Xad20/s1600/Food+Network+logo+2013.jpg" group-title="24/7", Current Event 3 
+http://cdn9.azureedge.eu/live/d/index.m3u8
+# http://37.48.83.12:8081/live/live1/chunks.m3u8
+# http://1520893312.rsc.contentproxy9.cz/NBA_TV/index.m3u8
+# http://doxeaz06.cf/live/Nuggets/chunks.m3u8
+# http://neuclnlds225.akamaized.ml/live/nfl/chunks.m3u8
+# http://atlas.its.virginia.edu:8088/hls/m3u8/CBS.m3u8
+# cycle cbs for fox,nbc
+# http://hls.pasta.stream:8443/live/food/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6v5aFgb.jpg" group-title="Sports", Current Event 4
+https://goldenstreamer.com/hls/exprestream1/chunks.m3u8
+# http://streams.easysport.tv/live/easysport1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gjBAU2S.png" group-title="Sports",NFL Network
+http://hollyuanderson.s3-accelerate.amazonaws.com/nflnetwork.m3u8
+# http://ne2.ngcache.info/live/Rockets/chunks.m3u8
+# https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/2018_FIFA_World_Cup.svg/227px-2018_FIFA_World_Cup.svg.png" group-title="Sports",MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+# http://doxeaz06.cf/live/Mavericks/chunks.m3u8
+# https://live.dlive.io/transcode-247/hathanhtam/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://espntheundefeated.files.wordpress.com/2017/05/nba-logo.png" group-title="24/7",Portland
+http://tvecsnnorthwest-i.akamaihd.net/hls/live/219796/CSNnorthwestx/2596k/prog.m3u8
+# http://tvecsnnorthwest-i.akamaihd.net/hls/live/219796/CSNnorthwestx/4296k/prog.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://espntheundefeated.files.wordpress.com/2017/05/nba-logo.png" group-title="24/7",Philly
+http://tvetcnphiladelph-i.akamaihd.net/hls/live/219798/TCNPhiladelphiax/2596k/prog.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://espntheundefeated.files.wordpress.com/2017/05/nba-logo.png" group-title="24/7",Boston
+http://tvecsnnewengland-i.akamaihd.net/hls/live/219795/CSNnewenglandx/4296k/prog.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://espntheundefeated.files.wordpress.com/2017/05/nba-logo.png" group-title="24/7",Kings
+http://tvecsncalifornia-i.akamaihd.net/hls/live/219792/CSNcaliforniax/2596k/prog.m3u8
+# http://tvecsnwashington-i.akamaihd.net/hls/live/219797/CSNwashingtonx/4296k/prog.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://espntheundefeated.files.wordpress.com/2017/05/nba-logo.png" group-title="24/7",Warriors
+http://tvecsnbayarea-i.akamaihd.net/hls/live/219791/CSNbayareax/2596k/prog.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://espntheundefeated.files.wordpress.com/2017/05/nba-logo.png" group-title="24/7",Chicago
+http://tvecsnchicago-i.akamaihd.net/hls/live/219793/CSNchicagox/2596k/prog.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://slam.canoe.com/Slam/Wrestling/2014/08/13/UPDATED_WWE_Network_logo_on_White_SM.jpg" group-title="Sports",Test
+http://dada.dkexrq9z1fk9.ga/hls/mma1.m3u8
+# http://37.48.83.12:8081/HLS/GMR-DET-BRN/chunks.m3u8
+# http://www.hhhssssss.com/hls/live12/index.m3u8
+# https://mediafusion-lh.akamaihd.net/i/Live_1@727634/index_1_av-b.m3u8
+# http://legacy.pasta.stream/WWE/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cutcabletoday.com/wp-content/uploads/2017/08/stadium.jpg" group-title="Sports",Stadium Sports
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+# https://04476b7c682c4da8b8b4bfe23ef879c1.midas.us-east-1.amazonaws.com/v1/master/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/hls/live/522512/mux_4/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.underconsideration.com/brandnew/archives/nba_others_nba_tv.png" group-title="Sports", ESPN/ABC(Ripple2)
+http://bnk.sports.iz/espn3.m3u8
+# http://ripple.is/live/espn4.m3u8
+
+# EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.cdn.tntdrama.com/assets/images/2018/03/NBAonTNT-TempSolve2-900x360.png" group-title="Sports",NBA TV/TNT LP(Buff)
+# https://d2wg5428jzl05m.cloudfront.net/index_1.m3u8
+# http://live.ronaldo7.ga/stream/bt2/chunks.m3u8
+
+# EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/B/boston-red-sox-logo-21F446678F-seeklogo.com.png" group-title="Sports",Pasta RedSox
+# http://remote.pasta.stream:8085/live/sox/index.m3u8
+
+# EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/03/TNT_Logo.png" group-title="Sports",TNT Icel
+# https://ssh101.com/m3u8/dyn/tnt2/index.m3u8
+# http://icelz.6te.net/tnt2.m3u8
+# from http://sasastreams.pw/tnt2.php?id=east
+
+# EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.groovypost.com/wp-content/uploads/2014/12/watch-ESPN-Logo.png" group-title="Sports", ESPN(Onurb Ace)
+# https://sprtbayarearsn-lh.akamaihd.net/i/sprtrsnbayarea_1@320710/index_3450_av-b.m3u8
+
+# EXTINF:-1 tvg-logo="https://cdn.pokernewsdaily.com/wp-content/uploads/2017/10/PokerGO.jpg" group-title="Sports",PokerGO
+# https://neuclnlds1260.akamaized.net/nlds/pokergo/t67681/as/live/nlncp/t67681_hd_4500_pc.m3u8
+# https://neuclnlds1214.akamaized.net/nlds/pokergo/t67655/as/live/nlncp/t67655_hd_4500_pc.m3u8
+# https://neuclnlds1210.akamaized.net/nlds/pokergo/t67650/as/live/nlncp/t67650_hd_4500_pc.m3u8
+
+# EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1000logos.net/wp-content/uploads/2017/01/ESPN-Logo.png" group-title="Sports", FS1(TopStream)
+# http://d2av9wq8i2c6ct.cloudfront.net/tv/d28rgh16a8y3jq_fs1.m3u8
+# http://d240povj6n0xbx.cloudfront.net/tv/d1gw35q9y3ulcb_espn_19.m3u8
+
+# EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/78.jpg" group-title="Sports",NBC New York TNT (TopStream)
+# https://1-edge4-us-east.picarto.tv/mp4/jamescook.mp4
+# http://d35f84vr5lrzf0.cloudfront.net/live/p7454/chunks.m3u8
+# https://dcs-live2.apis.anvato.net/server/play/AzQdaeSnwb5wfyg0/manifest.m3u8
+
+# EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/j55hDLp.png" group-title="24/7",CBS Masters
+# http://ibm1-live-hls.secure.footprint.net/ibmmasters/live/simul/master_5000.m3u8
+# http://azulitocdn.ga/live/cbs/chunks.m3u8
+# http://voo.memesyndicate.com/ktvn.m3u8
+
+# EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/originals/31/4a/b5/314ab5df4c2672486e5bd09073b8fe70.jpg" group-title="USA",Masters Amen
+# http://ibm1-live-hls.secure.footprint.net/ibmmasters/live/ac/master_5000.m3u8
+# http://www.masters.com/multimedia/cl_aug_ac_Desktop.m3u8
+# http://ibmlive2018b-lh.akamaihd.net/i/simul_1@627985/index_3500_av-p.m3u8
+# http://ibmlive2018-lh.akamaihd.net/i/fg_1@627988/index_3500_av-b.m3u8
+
+# EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.cbc.ca/1.4066392.1500303304!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cbc-logo-horizontal.jpg" group-title="Sports",NHL Imabee
+# http://stream.imabee.ca/live/event004.m3u8
+
+# EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.logo-designer.co/wp-content/uploads/2015/07/UFC-logo-design-2015-brand-identity.png" group-title="Sports",UFC BT2(720p)
+# https://apache.iceskating.ml/live/btsport2-hq/chunks.m3u8?nimblesessionid=700060&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yLzIwMTggNDozNjoyOSBBTSZoYXNoX3ZhbHVlPVB3RitmQU9sZ1c1TUJrWHNGTER2T2c9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9MTg1LjgwLjEzMC4yMDQmc3RybV9sZW49NQ==
+# http://yallasport.co/live/c0.php?id=btsport2
+# http://nlds225.cdnl3nl.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_4500_ipad.m3u8
+
+# EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/2018_FIFA_World_Cup.svg/227px-2018_FIFA_World_Cup.svg.png" group-title="Sports",World Cup 2
+# https://live.dlive.io/transcode-247/hathanhtam/playlist.m3u8
+
+# EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.cdn.tntdrama.com/assets/images/2018/03/NBAonTNT-TempSolve2-900x360.png" group-title="Sports",NBA TNT National(WeLove) 
+# http://pip.clquack.ml/welovesports982.m3u8
+# http://tictoc.clquack.ml/welovesports2.m3u8
+# from http://mygoodstream.pw/nba/tnt.html
+
+# EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn1.thecomeback.com/wp-content/uploads/sites/94/2017/05/-logo.png" group-title="Sports", MLB Network WeLove
+# http://tictoc.clquack.ml/welovesports2.m3u8
+
+# EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sony-six-sd.jpg" group-title="Sports",Cors ESPN/TNT
+# http://cors7.nba4live.fun/hls/lal.m3u8
+# from http://www.nba4live.fun/stream/live1/ reddit: https://www.reddit.com/user/eduarpaack
+# http://yuphdtv.net/tRXnDiJPF3RO4DR/Six_HD/Six_HD_1200.m3u8
+
+# EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/973950775121588224/pfMaq-oH_400x400.jpg" group-title="Sports",HockeyDaBeast
+# http://www.hockeydabeast413.xyz/live/Hockeydabeast413/index.m3u8
+
+# BEGIN NEWS
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/j55hDLp.png" group-title="WORLD NEWS",CNN International
+https://1259541102.rsc.cdn77.org/LS-ATL-54548-9/index.m3u8
+# http://190.13.120.125/streams/cnnint.m3u8
+# http://wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8
+# http://tvenbcpacific-i.akamaihd.net/hls/live/217819/nbcpt/2596k/prog.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E2YR6Oa.png" group-title="WORLD NEWS",Al Jazeera
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wY0bIox.png" group-title="WORLD NEWS",Bloomberg TV Europe
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+
+# EXTINF:-1 tvg-logo="https://aretethrowsnation.com/wp-content/uploads/cnn-logo-white.png" group-title="WORLD NEWS",CNN International
+# http://playlist.onlybest.tv/ru/channel/6018265d6e7fc90bb1ef5f2c5ec81061/102/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/SvQJJD4.png" group-title="USA",MSNBC HD
+https://1259541102.rsc.cdn77.org/LS-ATL-54548-15/index.m3u8
+# http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abc.net.au/tv/common/images/publicity/abcnewsdefault_90.jpg" group-title="WORLD NEWS",ABC News 24
+http://abcnews24mha-lh.akamaihd.net/i/abcnews24nospe_1@70019/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/buPAXY7.png" group-title="WORLD NEWS",RT America
+https://rt-usa.secure.footprint.net/1105.m3u8
+# https://secure-streams.akamaized.net/rt-usa/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/MH7kNnl.png" group-title="WORLD NEWS",CBS News
+https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master.m3u8
+# 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/p06PmVt.png" group-title="WORLD NEWS",ABC News
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8
+# https://abclive1-lh.akamaihd.net/i/abc_live10@420897/master.m3u8
+# https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
+# http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/BH4tuYc.png" group-title="WORLD NEWS",BBC World News (Opt-1)
+https://1259541102.rsc.cdn77.org/LS-ATL-54548-11/index.m3u8
+# http://92.43.140.249/s24/04.m3u8
+# http://190.13.120.114/streams/bbcworld.m3u8
+# http://stream.euroasia.lfstrm.tv/bbc_world_news/1/index.m3u8
+# http://ott-cdn.ucom.am/s24/index.m3u8
+# https://amd.cdn.turner.com/adultswim/episodes/no_geo/ericandre/2018/02/ericandre_cc_EricDoesParis_Digital_hauygh8agoydfaiusdh/hls/ericandre_cc_EricDoesParis_Digital_hauygh8agoydfaiusdh_stream_webvtt.m3u8
+# http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cbc.ca/mediacentre/content/images/News_header-750x360.jpg" group-title="WORLD NEWS",Newsy
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
+# http://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png" group-title="WORLD NEWS",CGTN (Opt-2)
+http://live.cgtn.com/1000/prog_index.m3u8
+
+# EXTINF:-1 tvg-logo="https://i.imgur.com/uPvJzrz.png" group-title="USA",CNBC World
+# http://electric.cdn.newschat.tv/hls/cnbc_hd/index.m3u8
+# https://content-ausw3.uplynk.com/channel/a6fe2dd55b3149a6a59154a93e8012/h.m3u8?pbs=a089fc6c8ffc42d081b85ba79b60ab56
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/D4vJyy9.png" group-title="USA",The Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RQdfZe6.png" group-title="USA",Velocity
+https://rt-usa.secure.footprint.net/1105-inadv-qidx-4k_v3.m3u8
+# https://rt-usa.secure.footprint.net/1105.m3u8
+# http://216.31.255.235/hlsl/6/fe6puFAsucreVELOCITY/fe6puFAsucreVELOCITY.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zim9edfg88-flywheel.netdna-ssl.com/wp-content/uploads/logos/ABC+7+Sarasota+WWSB+logo_190.png" group-title="USA",WWSB 7 Sarasota (ABC)
+http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8
+# http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
+
+#EXTINF:0 group-title="USA",WCBS 2 News - 33 DT - New York City - NY New York
+http://play-prod1.live.anvato.net/server/play/cbslocal-wcbsx-dfp/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pmcvariety.files.wordpress.com/2015/03/destination-america.jpg" group-title="USA",Destination America HD
+https://content-ausw4.uplynk.com/channel/db762a708aa64082a610346d36654186/h.m3u8?pbs=7ef756186b5e4775bc6dec15cd74dd06
+
+
+# BEGIN MISC
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2.bp.blogspot.com/-V3sYLaSAJ4Y/UPor1iFQeGI/AAAAAAAAV8o/Yixri3Xad20/s1600/Food+Network+logo+2013.jpg" group-title="24/7",Food Network
+http://rtmp.pasta.stream:8080/live/food/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/sites/default/files/DigitalOpen_2015.mov.00_00_04_23.Still001__1457742519.jpg" group-title="USA",PAC-12 National
+https://5-61-37-12.livesports24.online/onlinebtsport1.m3u8
+# http://p12n-lh.akamaihd.net/i/network_delivery@428818/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nbcsn.com/logo_nbcSports.png" group-title="USA",NBCSN (Streamspn)
+http://sportstv-388760700.us-east-2.elb.amazonaws.com/tv/d3aqjziv7zumr3_nbcsn_7.m3u8
+
+#EXTINF:-1 tvg-logo="https://musor.tv/images/paramount_channel.png" group-title="USA",Paramount Channel
+http://playlist.onlybest.tv/ru/channel/6018265d6e7fc90bb1ef5f2c5ec81061/62/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/TWiT.svg/130px-TWiT.svg.png" group-title="USA",TWiT
+http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
+
+# Masters was here
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14060.jpg" group-title="24/7",Test Sasa
+http://sasastreams.pw/stream3.php?url=aHR0cDovL2FrLWhscy1icnMtZXNwbjEuZXNwbi5nby5jb20vaGxzL2xpdmUvMjE4NjE2L3AvZXNwbjEtcC5tM3U4
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14061.jpg" group-title="24/7",Adult Swim Live Action
+https://adultswim-vodlive.cdn.turner.com/live/daily_liveaction_1/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://userscontent2.emaze.com/images/3aad53e1-b1ed-4615-b73f-5da38c50f186/b6e7a922-ea23-4d64-aaa1-47f1ad5ce794.png" group-title="24/7",Rick and Morty
+http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette2.wikia.nocookie.net/theericandreshow/images/6/69/The_Eric_Andre_Logo.png" group-title="24/7",The Eric Andre Show
+http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.adweek.com/tvspy/wp-content/uploads/sites/4/2013/06/wttg-logo_304x200.jpg" group-title="USA LOCAL",FOX 5
+https://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/BH4tuYc.png" group-title="WORLD NEWS",BBC World News (Opt-2)
+https://latamonly-lh.akamaihd.net/i/bbclatam_1@81925/master.m3u8
+
+# working Tnt  04/05/2018
+# http://212.237.40.167/live/b2.m3u8 from http://mycloudsports.ml/nba2.php user:teamcoolvr
+
+# https://101.com/m3u8/dyn/180328/index.m3u8 from http://acesports.stream/nba/live.html https://www.reddit.com/user/onurb88
+
+# http://d1yw9vjki0154p.cloudfront.net/live.m3u8 from http://www.emburl.com/nba/ch2.html https://www.reddit.com/r/nbalivetvstreams/
+
+# fun 
+
+# EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/2018_FIFA_World_Cup.svg/227px-2018_FIFA_World_Cup.svg.png" group-title="Sports",NBA Fun 2
+# http://m1.nba4live.fun/hls/2.m3u8
+# xyz
+
+# EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/2018_FIFA_World_Cup.svg/227px-2018_FIFA_World_Cup.svg.png" group-title="Sports",NBA Fun 3
+# http://m1.nba4live.fun/hls/3.m3u8
+
+# EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/2018_FIFA_World_Cup.svg/227px-2018_FIFA_World_Cup.svg.png" group-title="Sports",NBA Fun 4
+# http://m1.nba4live.fun/hls/4.m3u8
+
+# EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/2018_FIFA_World_Cup.svg/227px-2018_FIFA_World_Cup.svg.png" group-title="Sports",NBA Fun 5
+# http://m1.nba4live.fun/hls/5.m3u8
+
+# EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/2018_FIFA_World_Cup.svg/227px-2018_FIFA_World_Cup.svg.png" group-title="Sports",NBA Fun 11
+# http://m1.nba4live.fun/hls/11.m3u8
+# https://www.reddit.com/user/nba4live2019
+# http://d3nrc0bv0evkp2.cloudfront.net/nfl/lbd2cluvem9vlarl_nflxrz_hd_3000_pc.m3u8
+# https://d1nnrjufj33l87.cloudfront.net/index_5.m3u8

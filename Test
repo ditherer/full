@@ -42,7 +42,7 @@ http://fsdvbgfnffedsd.ivcvi.club/t/chunks.m3u8
 # https://hls.pasta.stream:8443/live/hbo/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 2 
-http://11.sulae.club/hls/live.m3u8
+http://11.onens.club/hls/live.m3u8
 # http://doxeaz06.cf/live/Rockets/chunks.m3u8
 # https://devicecbsnews-a.akamaihd.net/media/mpx/2019/04/04/1472842307686/0414_60Minutes_FullEpisode_1829337_3500/0414_60Minutes_FullEpisode_1829337_3500.m3u8
 # http://37.48.83.12:8081/live/tnt/chunks.m3u8
@@ -54,11 +54,13 @@ http://11.sulae.club/hls/live.m3u8
 # https://hls.pasta.stream:8443/live/show/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 3
-http://crackstreams.com/nba1.m3u8
+http://crackstreams.com/mma2.m3u8
+# http://crackstreams.com/nba1.m3u8
 # http://37.48.83.12:8081/live/TNT/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/j55hDLp.png" group-title="24/7", Current Event 4
-http://37.48.83.12:8081/live/TNT/chunks.m3u8
+http://37.48.83.12:8081/live/espn+/chunks.m3u8
+# http://37.48.83.12:8081/live/TNT/chunks.m3u8
 # http://streams.easysport.tv/live/easysport1/chunks.m3u8
 # http://185.246.209.220/tnt_hd/tracks-v1a1/mono.m3u8
 # http://1520893312.rsc.contentproxy9.cz/TNT/index.m3u8

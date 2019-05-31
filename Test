@@ -107,7 +107,7 @@ http://espn.clinicalkey.icu/cache/abc.m3u8
 # https://klive-a.akamaihd.net/dc-1/live/hls/p/2306121/e/1_gesowtz8/sd/6000/t/y1SPmwgq_dJfURQEoU8kUA/master.m3u8
 # http://sasastreams.pw/abc.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pfBfl7i.jpg" buffer="10" group-title="Sports", ESPN 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pfBfl7i.jpg" buffer="10" group-title="Sports", ESPN News
 http://espn.clinicalkey.icu/cache/espnews.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/a/a5/Abc_Logo.png" group-title="Sports",CBS

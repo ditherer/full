@@ -30,7 +30,7 @@ http://voo.memesyndicate.com/uplynk.m3u8
 # https://hls.pasta.stream:8443/live/alt/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7",Current Event 1
-http://sdfsdsfdkljpkpsdjkp.ivcvi.club/a/chunks.m3u8
+http://cdn2.youpit.site/live/yp1/chunks.m3u8
 # http://buffstreamz.com/emb/z-36.m3u8
 # http://11.shacs.club/hls/live.m3u8
 # http://37.48.83.12:8081/live/tnt/chunks.m3u8
@@ -55,7 +55,8 @@ http://bnk.bankai.stream/espn2.m3u8
 # https://hls.pasta.stream:8443/live/show/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 3
-http://crackstreams.com/nba.m3u8
+http://crackstreams.com/mma4.m3u8
+# http://crackstreams.com/nba.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 4
 http://doxeaz06.cf/live/Raptors/chunks.m3u8

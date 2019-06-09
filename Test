@@ -43,7 +43,7 @@ http://111.duria.club/hls/live.m3u8
 # https://hls.pasta.stream:8443/live/hbo/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 2 
-https://wowzaprod262-i.akamaihd.net/hls/live/820378/2d8ade52/playlist.m3u8
+http://rah.azureedge.net/live/media_527_2560/chunks.m3u8
 # http://94.102.56.145/hls/abc.m3u8
 # http://bnk.bankai.stream/espn2.m3u8
 # http://doxeaz06.cf/live/Rockets/chunks.m3u8

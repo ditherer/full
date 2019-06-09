@@ -30,7 +30,7 @@ http://voo.memesyndicate.com/uplynk.m3u8
 # https://hls.pasta.stream:8443/live/alt/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7",Current Event 1
-http://dsjhdfjksdfjvjohsd.ivcvi.club/r/chunks.m3u8
+http://111.duria.club/hls/live.m3u8
 # http://buffstreamz.com/emb/z-36.m3u8
 # http://11.shacs.club/hls/live.m3u8
 # http://37.48.83.12:8081/live/tnt/chunks.m3u8
@@ -43,7 +43,8 @@ http://dsjhdfjksdfjvjohsd.ivcvi.club/r/chunks.m3u8
 # https://hls.pasta.stream:8443/live/hbo/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 2 
-http://94.102.56.145/hls/abc.m3u8
+https://wowzaprod262-i.akamaihd.net/hls/live/820378/2d8ade52/playlist.m3u8
+# http://94.102.56.145/hls/abc.m3u8
 # http://bnk.bankai.stream/espn2.m3u8
 # http://doxeaz06.cf/live/Rockets/chunks.m3u8
 # https://devicecbsnews-a.akamaihd.net/media/mpx/2019/04/04/1472842307686/0414_60Minutes_FullEpisode_1829337_3500/0414_60Minutes_FullEpisode_1829337_3500.m3u8
@@ -51,12 +52,11 @@ http://94.102.56.145/hls/abc.m3u8
 # http://cdn.youpit.site/live/yp1/chunks.m3u8
 # http://bnk.sportz.is/espn2.m3u8
 # http://pasta.stream/IPTV/tnt.m3u8
-# http://doxeaz06.cf/live/Nets/chunks.m3u8
 # http://voo.memesyndicate.com/wolf.m3u8
 # https://hls.pasta.stream:8443/live/show/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 3
-http://11.duria.club/hls/live.m3u8
+http://rsgsdvvd.azureedge.net/live/bts2/chunks.m3u8
 # http://crackstreams.com/nba.m3u8
 
 # EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 4

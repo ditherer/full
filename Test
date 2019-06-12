@@ -24,7 +24,7 @@ https://pasta.stream:8443/live/main/index.m3u8
 http://75.101.159.235:1935/live/test/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xAVVVdY.jpg" group-title="24/7",Pasta Alt
-https://pasta.stream/IPTV/espn.m3u8
+https://pasta.stream/IPTV/espnm3u8?id=856&bitrate=4500&.m3u8
 # http://voo.memesyndicate.com/uplynk.m3u8
 # from: https://memesyndicate.com/alt
 # https://voo.memesyndicate.com/csn-master.m3u8

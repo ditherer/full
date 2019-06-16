@@ -44,7 +44,7 @@ http://103.194.171.4:1935/live/S-2/chunks.m3u8
 # https://hls.pasta.stream:8443/live/hbo/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 2 
-https://live11.hotstar.com/hls/live/2003694/icccwc2019/eng/15mindvrm01e8vmyy4ss216june2019/master.m3u8?a=ns&hdnea=st=1560678938~exp=1560682538~acl=/*~hmac=7e0d5018ba1d3710ce5ec3cff035199791049601293dea64744d41ef50eba1e0
+https://live11.hotstar.com/hls/live/2003694/icccwc2019/eng/15mindvrm01e8vmyy4ss216june2019/master_1.m3u8
 # http://bnk.bankai.stream/espn4.m3u8
 # http://bnk.bankai.stream/espn2.m3u8
 # http://94.102.56.145/hls/abc.m3u8

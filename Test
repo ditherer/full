@@ -74,7 +74,8 @@ https://pasta.stream/IPTV/espnm3u8?id=856&bitrate=4500&.m3u8
 # http://voo.memesyndicate.com/nbc.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pfBfl7i.jpg" buffer="10" group-title="Sports", ESPN
-http://streamgenie.ga/files/test/espn/master.m3u8
+http://yoursports.stream/hls/xyss.m3u8?ch=espn
+# http://streamgenie.ga/files/test/espn/master.m3u8
 # https://yoursports.stream/hls/xyss.m3u8?ch=espn
 # http://espn.clinicalkey.icu/cache/espn1.m3u8
 # https://pasta.stream/IPTV/espn.m3u8
@@ -112,7 +113,8 @@ http://espn.clinicalkey.icu/cache/abc.m3u8
 # http://sasastreams.pw/abc.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pfBfl7i.jpg" buffer="10" group-title="Sports", ESPN News
-http://espn.clinicalkey.icu/cache/espnews.m3u8
+http://streamgenie.ga/files/test/espn/master.m3u8
+# http://espn.clinicalkey.icu/cache/espnews.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/a/a5/Abc_Logo.png" group-title="Sports",CBS
 https://centstreamswut.gq/cbs.m3u8

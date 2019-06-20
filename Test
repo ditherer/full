@@ -74,7 +74,8 @@ https://pasta.stream/IPTV/espnm3u8?id=856&bitrate=4500&.m3u8
 # http://voo.memesyndicate.com/nbc.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pfBfl7i.jpg" buffer="10" group-title="Sports", ESPN
-http://yoursports.stream/hls/xyss.m3u8?ch=espn
+http://streamgenie.ga/files/test/espn/master.m3u8
+# https://yoursports.stream/hls/xyss.m3u8?ch=espn
 # http://espn.clinicalkey.icu/cache/espn1.m3u8
 # https://pasta.stream/IPTV/espn.m3u8
 # http://espn.clinicalkey.icu/cache/espn1.m3u8
@@ -119,23 +120,11 @@ https://centstreamswut.gq/cbs.m3u8
 # http://1520893312.rsc.contentproxy9.cz/CBS/index.m3u8
 # http://hollyuanderson.s3-accelerate.amazonaws.com/espn.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/a/a5/Abc_Logo.png" group-title="Sports",NBC
+https://centstreamswut.gq/nbc.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pmcdeadline2.files.wordpress.com/2018/01/golf-channel-logo.jpg" group-title="Sports",GOLF 
 http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/j55hDLp.png" group-title="24/7",US Open Main
-https://usgaalive1-a.akamaihd.net/ada25a5b9fbc48169e052c685bf82863/us-west-2/1918791248001/profile_1/chunklist_dvr.m3u8
-# https://pgalive.akamaized.net/hls/live/663402/broadcast/master.m3u8
-# http://ibm1-live-hls.secure.footprint.net/ibmmasters/live/simul/master_5000.m3u8
-# http://azulitocdn.ga/live/cbs/chunks.m3u8
-# http://voo.memesyndicate.com/ktvn.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/originals/31/4a/b5/314ab5df4c2672486e5bd09073b8fe70.jpg" group-title="USA",US Open Featured
-https://usgaalive1-a.akamaihd.net/ada25a5b9fbc48169e052c685bf82863/us-west-2/1918791248001/profile_1/chunklist_dvr.m3u8
-# https://pgalive.akamaized.net/hls/live/663398/feature1/master.m3u8
-# http://ibm1-live-hls.secure.footprint.net/ibmmasters/live/ac/master_5000.m3u8
-# http://www.masters.com/multimedia/cl_aug_ac_Desktop.m3u8
-# http://ibmlive2018b-lh.akamaihd.net/i/simul_1@627985/index_3500_av-p.m3u8
-# http://ibmlive2018-lh.akamaihd.net/i/fg_1@627988/index_3500_av-b.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/a/a5/Abc_Logo.png" group-title="Sports",Hackey
 http://hackey.stream/hls/test.m3u8
@@ -301,7 +290,20 @@ http://bnk.sports.iz/espn3.m3u8
 # https://dcs-live2.apis.anvato.net/server/play/AzQdaeSnwb5wfyg0/manifest.m3u8
 
 
-# put golf back here
+# EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/j55hDLp.png" group-title="24/7",US Open Main
+# https://usgaalive1-a.akamaihd.net/ada25a5b9fbc48169e052c685bf82863/us-west-2/1918791248001/profile_1/chunklist_dvr.m3u8
+# https://pgalive.akamaized.net/hls/live/663402/broadcast/master.m3u8
+# http://ibm1-live-hls.secure.footprint.net/ibmmasters/live/simul/master_5000.m3u8
+# http://azulitocdn.ga/live/cbs/chunks.m3u8
+# http://voo.memesyndicate.com/ktvn.m3u8
+
+# EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/originals/31/4a/b5/314ab5df4c2672486e5bd09073b8fe70.jpg" group-title="USA",US Open Featured
+# https://usgaalive1-a.akamaihd.net/ada25a5b9fbc48169e052c685bf82863/us-west-2/1918791248001/profile_1/chunklist_dvr.m3u8
+# https://pgalive.akamaized.net/hls/live/663398/feature1/master.m3u8
+# http://ibm1-live-hls.secure.footprint.net/ibmmasters/live/ac/master_5000.m3u8
+# http://www.masters.com/multimedia/cl_aug_ac_Desktop.m3u8
+# http://ibmlive2018b-lh.akamaihd.net/i/simul_1@627985/index_3500_av-p.m3u8
+# http://ibmlive2018-lh.akamaihd.net/i/fg_1@627988/index_3500_av-b.m3u8
 
 # EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/originals/31/4a/b5/314ab5df4c2672486e5bd09073b8fe70.jpg" group-title="USA",Masters Featured
 # https://pgalive.akamaized.net/hls/live/663398/feature2/master.m3u8

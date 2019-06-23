@@ -31,7 +31,7 @@ https://pasta.stream/IPTV/espnm3u8?id=856&bitrate=4500&.m3u8
 # https://hls.pasta.stream:8443/live/alt/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7",Current Event 1
-http://sjdsflkisdfjhsdisdf.rgdjb.me/e/chunks.m3u8
+http://103.194.171.4:1935/live/S-1/playlist.m3u8
 # http://www.365betstream.pw/soccer/playlist.m3u8
 # http://163.172.218.205:8081/T/1/index.m3u8
 # http://c5.nba4live.club/hls/1.m3u8
@@ -39,15 +39,13 @@ http://sjdsflkisdfjhsdisdf.rgdjb.me/e/chunks.m3u8
 # https://www.reddit.com/user/nba4live2019
 # https://hls.pasta.stream:8443/live/hbo/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 2 
-http://11.buffed.site/hls/live.m3u8
+# EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 2 
+# http://11.buffed.site/hls/live.m3u8
 # https://live11.hotstar.com/hls/live/2003694/icccwc2019/eng/15mindvrm01e8vmyy4ss216june2019/master_1.m3u8
 # http://bnk.bankai.stream/espn4.m3u8
 # http://bnk.bankai.stream/espn2.m3u8
 # http://94.102.56.145/hls/abc.m3u8
 # http://bnk.bankai.stream/espn2.m3u8
-# http://doxeaz06.cf/live/Rockets/chunks.m3u8
-# https://devicecbsnews-a.akamaihd.net/media/mpx/2019/04/04/1472842307686/0414_60Minutes_FullEpisode_1829337_3500/0414_60Minutes_FullEpisode_1829337_3500.m3u8
 # http://37.48.83.12:8081/live/tnt/chunks.m3u8
 # http://cdn.youpit.site/live/yp1/chunks.m3u8
 # http://bnk.sportz.is/espn2.m3u8
@@ -55,13 +53,13 @@ http://11.buffed.site/hls/live.m3u8
 # http://voo.memesyndicate.com/wolf.m3u8
 # https://hls.pasta.stream:8443/live/show/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 3
-http://sp1080.givemereddit.stream/hls/btsport/chunks.m3u8
+# EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 3
+# http://sp1080.givemereddit.stream/hls/btsport/chunks.m3u8
 # http://crackstreams.com/nba1.m3u8
 # http://crackstreams.com/nba.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 4
-http://crackstreams.com/mma4.m3u8
+# EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 4
+# http://crackstreams.com/mma4.m3u8
 # http://crackstreams.com/nba2.m3u8
 # http://ec2-184-72-239-149.compute-1.amazonaws.com/live/pregame/playlist.m3u8
 # http://crackstreams.com/mma2.m3u8

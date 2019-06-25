@@ -98,6 +98,7 @@ http://yoursports.stream/hls/xyss.m3u8?ch=espn
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pfBfl7i.jpg" buffer="10" group-title="Sports", ESPN 2
 http://yoursports.stream/hls/xyss.m3u8?ch=espn2
+# http://yoursports.stream/hls/xyss.m3u8?ch=espn2
 # http://espn.clinicalkey.icu/cache/espn2.m3u8
 # can replace espn with espnews or espnu
 

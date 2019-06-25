@@ -102,7 +102,8 @@ http://yoursports.stream/hls/xyss.m3u8?ch=espn2
 # can replace espn with espnews or espnu
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/a/a5/Abc_Logo.png" group-title="Sports",ABC
-http://espn.clinicalkey.icu/cache/abc.m3u8
+https://yoursports.stream/hls/xyss.m3u8?ch=espnnews
+# http://espn.clinicalkey.icu/cache/abc.m3u8
 # http://acesports.win/abc.m3u8
 # http://159.89.142.208/ne2/index.m3u8
 # http://198.255.114.146:8080/TNT/index.m3u8

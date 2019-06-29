@@ -31,7 +31,7 @@ https://pasta.stream/IPTV/espnm3u8?id=856&bitrate=4500&.m3u8
 # https://hls.pasta.stream:8443/live/alt/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7",Current Event 1
-https://teleupmsl.akamaized.net/hls/live/2004009/espnmsl/espn_2000/chunklist.m3u8?hdntl=exp=1561832020~acl=/*~data=hdntl~hmac=23af7e7029047056a4a44b77c61f8de996cccc2b99866d62278c123067403a86
+http://espn.tmedia.me/cache/espn1.m3u8?token=_kRdBnjTwDGYbKiM47wc2g&e=1561836058
 # http://103.194.171.4:1935/live/S-1/playlist.m3u8
 # http://www.365betstream.pw/soccer/playlist.m3u8
 # http://163.172.218.205:8081/T/1/index.m3u8
@@ -40,7 +40,8 @@ https://teleupmsl.akamaized.net/hls/live/2004009/espnmsl/espn_2000/chunklist.m3u
 # https://www.reddit.com/user/nba4live2019
 # https://hls.pasta.stream:8443/live/hbo/index.m3u8
 
-# EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 2 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 2 
+http://motorsport-us.cf:8082
 # http://11.buffed.site/hls/live.m3u8
 # https://live11.hotstar.com/hls/live/2003694/icccwc2019/eng/15mindvrm01e8vmyy4ss216june2019/master_1.m3u8
 # http://bnk.bankai.stream/espn4.m3u8

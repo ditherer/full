@@ -161,7 +161,8 @@ https://hackey.stream/hls2/test.m3u8
 # http://rtmp.pasta.stream:8085/live/vice/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/989547250358669313/QaiNCiLy_400x400.jpg" group-title="Sports",TNT OT Rip
-https://devicecbsnews-a.akamaihd.net/media/mpx/2019/04/24/1505813571907/0519_60Minutes_Full_1853574_3500/0519_60Minutes_Full_1853574_3500.m3u8
+https://devicecbsnews-a.akamaihd.net/media/mpx/2018/06/05/1248291395777/CBSN_fusion_cutting-edge-immunotherapy-treatment-removes-all-traces-of-cancer-in-woman_video_1583556_3500/CBSN_fusion_cutting-edge-immunotherapy-treatment-removes-all-traces-of-cancer-in-woman_video_1583556_3500.m3u8
+# https://devicecbsnews-a.akamaihd.net/media/mpx/2019/04/24/1505813571907/0519_60Minutes_Full_1853574_3500/0519_60Minutes_Full_1853574_3500.m3u8
 # https://tntovertime.akamaized.net/hls/live/717305/action/master.m3u8
 # http://37.48.83.12:8081/live/raptors/playlist.m3u8
 # http://doxeaz06.cf/live/Jazz/chunks.m3u8

@@ -33,7 +33,8 @@ https://grandma.blab.email/uplynk.m3u8
 # https://hls.pasta.stream:8443/live/alt/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7",Current Event 1
-http://11.nosto.xyz/hls/live.m3u8
+http://motorsport-us.cf:8081
+# http://11.nosto.xyz/hls/live.m3u8
 # http://nbastreams.xyz/espn2.m3u8
 # http://crackstreams.com/ufc.m3u8
 # http://103.194.171.4:1935/live/S-1/playlist.m3u8
@@ -45,8 +46,8 @@ http://11.nosto.xyz/hls/live.m3u8
 # https://hls.pasta.stream:8443/live/hbo/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 2 
-http://crackstreams.com/ufc.m3u8
-# http://motorsport-us.cf:8082
+http://motorsport-us.cf:8082
+# http://crackstreams.com/ufc.m3u8
 # http://11.buffed.site/hls/live.m3u8
 # https://live11.hotstar.com/hls/live/2003694/icccwc2019/eng/15mindvrm01e8vmyy4ss216june2019/master_1.m3u8
 # http://bnk.bankai.stream/espn4.m3u8
@@ -61,13 +62,14 @@ http://crackstreams.com/ufc.m3u8
 # https://hls.pasta.stream:8443/live/show/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 3
-http://103.194.171.4:1935/abr/abr-S-1/playlist.m3u8
+http://motorsport-us.cf:8083
+# http://103.194.171.4:1935/abr/abr-S-1/playlist.m3u8
 # http://sp1080.givemereddit.stream/hls/btsport/chunks.m3u8
 # http://crackstreams.com/nba1.m3u8
 # http://crackstreams.com/nba.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 4
-http://motorsport-us.cf:8081
+# EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 4
+# http://motorsport-us.cf:8081
 # http://crackstreams.com/mma4.m3u8
 # http://crackstreams.com/nba2.m3u8
 # http://ec2-184-72-239-149.compute-1.amazonaws.com/live/pregame/playlist.m3u8

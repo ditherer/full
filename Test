@@ -87,7 +87,7 @@ http://bnk.bankai.stream/espn2.m3u8
 # http://voo.memesyndicate.com/nbc.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pfBfl7i.jpg" buffer="10" group-title="Sports", ESPN
-http://yoursports.stream/hls/xyss.m3u8?ch=espn
+http://yoursports.stream/hls/stream.m3u8?ch=espn
 # http://streamgenie.ga/files/test/espn/master.m3u8
 # https://yoursports.stream/hls/xyss.m3u8?ch=espn
 # http://espn.clinicalkey.icu/cache/espn1.m3u8
@@ -109,7 +109,7 @@ http://yoursports.stream/hls/xyss.m3u8?ch=espn
 # http://remote.pasta.stream:8085/live/alt/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pfBfl7i.jpg" buffer="10" group-title="Sports", ESPN 2
-http://yoursports.stream/hls/xyss.m3u8?ch=espn2
+http://yoursports.stream/hls/stream.m3u8?ch=espn2
 # http://yoursports.stream/hls/xyss.m3u8?ch=espn2
 # http://espn.clinicalkey.icu/cache/espn2.m3u8
 # can replace espn with espnews or espnu

@@ -32,8 +32,8 @@ https://grandma.blab.email/uplynk.m3u8
 # https://voo.memesyndicate.com/csn-master.m3u8
 # https://hls.pasta.stream:8443/live/alt/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7",Current Event 1
-http://test900.gcdn.co/e/07.m3u8
+# EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7",Current Event 1
+# http://test900.gcdn.co/e/07.m3u8
 # http://motorsport-us.cf:8081
 # http://11.nosto.xyz/hls/live.m3u8
 # http://nbastreams.xyz/espn2.m3u8
@@ -46,8 +46,8 @@ http://test900.gcdn.co/e/07.m3u8
 # https://www.reddit.com/user/nba4live2019
 # https://hls.pasta.stream:8443/live/hbo/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 2 
-http://11.lurex.xyz/hls/live.m3u8
+# EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 2 
+# http://11.lurex.xyz/hls/live.m3u8
 # http://motorsport-us.cf:8082
 # http://crackstreams.com/ufc.m3u8
 # http://11.buffed.site/hls/live.m3u8
@@ -63,8 +63,8 @@ http://11.lurex.xyz/hls/live.m3u8
 # http://voo.memesyndicate.com/wolf.m3u8
 # https://hls.pasta.stream:8443/live/show/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 3
-http://crackstreams.com/ufcc.m3u8
+# EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 3
+# http://crackstreams.com/ufcc.m3u8
 # http://motorsport-us.cf:8083
 # http://103.194.171.4:1935/abr/abr-S-1/playlist.m3u8
 # http://sp1080.givemereddit.stream/hls/btsport/chunks.m3u8
@@ -92,7 +92,7 @@ http://bnk.bankai.stream/espn2.m3u8
 # http://voo.memesyndicate.com/nbc.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pfBfl7i.jpg" buffer="10" group-title="Sports", ESPN
-http://yoursports.stream/hls/stream.m3u8?ch=espn
+http://yrsprts.xyz/hls/stream.m3u8?ch=espn
 # http://streamgenie.ga/files/test/espn/master.m3u8
 # https://yoursports.stream/hls/xyss.m3u8?ch=espn
 # http://espn.clinicalkey.icu/cache/espn1.m3u8
@@ -114,7 +114,7 @@ http://yoursports.stream/hls/stream.m3u8?ch=espn
 # http://remote.pasta.stream:8085/live/alt/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pfBfl7i.jpg" buffer="10" group-title="Sports", ESPN 2
-http://yoursports.stream/hls/stream.m3u8?ch=espn2
+http://yrsprts.xyz/hls/stream.m3u8?ch=espn2
 # http://yoursports.stream/hls/xyss.m3u8?ch=espn2
 # http://espn.clinicalkey.icu/cache/espn2.m3u8
 # can replace espn with espnews or espnu

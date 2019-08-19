@@ -48,7 +48,7 @@ http://buffstreamz.com/emb/1.m3u8
 # https://hls.pasta.stream:8443/live/hbo/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 2 
-http://1a1.vitoa.club/hls/live.m3u8
+http://cdnnfl.youpit.site/live/fox/chunks.m3u8
 # http://11.lurex.xyz/hls/live.m3u8
 # http://motorsport-us.cf:8082
 # http://crackstreams.com/ufc.m3u8
@@ -109,7 +109,8 @@ http://yrsprts.xyz/hls/stream.m3u8?ch=espn
 # http://80.82.64.144/hls/ESPN.m3u8 areaworldsgist
 # http://streamgenie.ga/files/test/espn/master.m3u8
 # https://yoursports.stream/hls/xyss.m3u8?ch=espn
-# http://espn.clinicalkey.icu/cache/espn1.m3u8
+# http://espn.clinicalkey.icu/cache/espn1.m3u8, http://live.9live.club/hls/espn1.m3u8?token=fZ1wlxmRkJH7RdEKWAcO_g&e=1566187628
+# http://34.66.74.0/live/sea-min/chunks.m3u8
 # https://pasta.stream/IPTV/espn.m3u8
 # http://espn.clinicalkey.icu/cache/espn1.m3u8
 # http://198.255.114.146:8080/ESPN/index.m3u8

@@ -137,6 +137,9 @@ http://yrsprts.xyz/hls/stream.m3u8?ch=espn2
 # http://espn.clinicalkey.icu/cache/espn2.m3u8
 # can replace espn with espnews or espnu
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pfBfl7i.jpg" buffer="10" group-title="Sports", ESPN Tennis
+https://sports24.win/espn/espnt.m3u8?ch=louis
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/a/a5/Abc_Logo.png" group-title="Sports",ABC
 http://185.246.209.109:8080/ESPN_NEWS/index.m3u8
 # https://yoursports.stream/hls/xyss.m3u8?ch=espnnews
@@ -157,6 +160,12 @@ http://80.82.64.144/hls/ESPN.m3u8
 # http://yoursports.stream/hls/stream.m3u8?ch=espn2
 # http://streamgenie.ga/files/test/espn/master.m3u8
 # http://espn.clinicalkey.icu/cache/espnews.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/a/a5/Abc_Logo.png" group-title="Sports",ABC
+http://zubacz.xyz/watch/abc.m3u8
+# http://cdnnfl.youpit.site/live/abc/chunks.m3u8
+# http://cdn2.nbacdn.xyz/live/abc/playlist.m3u8 from http://newbusiness.space/athletics-yankees/
+# http://80.82.64.144/hls/ABC.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/a/a5/Abc_Logo.png" group-title="Sports",CBS
 https://centstreams.ml/cbs.m3u8

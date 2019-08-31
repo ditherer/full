@@ -91,11 +91,13 @@ https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:nbc.smil/playlist.m3u8
 # http://37.48.83.12:8081/live/TNT/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/j55hDLp.png" group-title="24/7", Current Event 5
-http://103.194.171.52:1935/hls/MMA/chunks.m3u8
+http://acdnnfl.youpit.site/live/espn/chunks.m3u8
+# http://103.194.171.52:1935/hls/MMA/chunks.m3u8
 # GregoryBlack
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/j55hDLp.png" group-title="24/7", ESPN Ripple
-http://bnk.bankai.stream/espn2.m3u8
+http://zubacz.xyz/watch/espn.m3u8
+# http://bnk.bankai.stream/espn2.m3u8
 # http://crackstreams.com/nba1.m3u8
 # http://37.48.83.12:8081/live/TNT/chunks.m3u8
 # http://streams.easysport.tv/live/easysport1/chunks.m3u8
@@ -105,7 +107,8 @@ http://bnk.bankai.stream/espn2.m3u8
 # http://voo.memesyndicate.com/nbc.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pfBfl7i.jpg" buffer="10" group-title="Sports", ESPN
-http://yrsprts.xyz/hls/stream.m3u8?ch=espn
+http://yrsprts.xyz/hls/stream.m3u8?ch=spn
+# http://yrsprts.xyz/hls/stream.m3u8?ch=espn
 # http://80.82.64.144/hls/ESPN.m3u8 areaworldsgist
 # http://streamgenie.ga/files/test/espn/master.m3u8
 # https://yoursports.stream/hls/xyss.m3u8?ch=espn
@@ -135,7 +138,8 @@ http://yrsprts.xyz/hls/stream.m3u8?ch=espn2
 # can replace espn with espnews or espnu
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/a/a5/Abc_Logo.png" group-title="Sports",ABC
-https://yoursports.stream/hls/xyss.m3u8?ch=espnnews
+http://185.246.209.109:8080/ESPN_NEWS/index.m3u8
+# https://yoursports.stream/hls/xyss.m3u8?ch=espnnews
 # http://espn.clinicalkey.icu/cache/abc.m3u8
 # http://acesports.win/abc.m3u8
 # http://159.89.142.208/ne2/index.m3u8

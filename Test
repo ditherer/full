@@ -33,7 +33,7 @@ https://grandma.blab.email/uplynk.m3u8
 # https://hls.pasta.stream:8443/live/alt/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7",Current Event 1
-http://buffstreamz.com/emb/1.m3u8
+http://buffstreamz.com/emb/43853085.m3u8
 # http://bfst.to/emb/e.m3u8
 # http://motorsport-us.cf:8081
 # http://11.nosto.xyz/hls/live.m3u8
@@ -48,7 +48,8 @@ http://buffstreamz.com/emb/1.m3u8
 # https://hls.pasta.stream:8443/live/hbo/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 2 
-http://cdnnfl.youpit.site/live/fox/chunks.m3u8
+https://christoperjosephc.s3-accelerate.amazonaws.com/bears.m3u8
+# http://cdnnfl.youpit.site/live/fox/chunks.m3u8
 # http://11.lurex.xyz/hls/live.m3u8
 # http://motorsport-us.cf:8082
 # http://crackstreams.com/ufc.m3u8
@@ -66,7 +67,8 @@ http://cdnnfl.youpit.site/live/fox/chunks.m3u8
 # https://hls.pasta.stream:8443/live/show/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 3
-https://freelocaltv.netlify.com/wgal.m3u8
+http://tekken.gmrst.xyz/hls/WGBA-GBA/playlist.m3u8
+# https://freelocaltv.netlify.com/wgal.m3u8 works
 # http://storage.gmrst.xyz/hls/espn+/playlist.m3u8
 # http://givemereddit.gizmostream.pw/hls/live1/playlist.m3u8
 # http://plaf.raptorz.xyz/live/media_540_2560/playlist.m3u8
@@ -78,7 +80,8 @@ https://freelocaltv.netlify.com/wgal.m3u8
 # http://crackstreams.com/nba.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 4
-https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:nbc.smil/playlist.m3u8
+http://tekken.gmrst.xyz/hls/nbc/playlist.m3u8
+# https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:nbc.smil/playlist.m3u8 works
 # http://techjaffa.com/ufc.m3u8
 # http://103.194.171.52:1935/hls/MMA/chunks.m3u8
 # http://103.194.171.85/hls/live/chunks.m3u8  giveme
@@ -91,7 +94,8 @@ https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:nbc.smil/playlist.m3u8
 # http://37.48.83.12:8081/live/TNT/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/j55hDLp.png" group-title="24/7", Current Event 5
-http://acdnnfl.youpit.site/live/espn/chunks.m3u8
+http://103.194.171.52:1935/hls/NFL/chunks.m3u8
+# http://acdnnfl.youpit.site/live/espn/chunks.m3u8
 # http://103.194.171.52:1935/hls/MMA/chunks.m3u8
 # GregoryBlack
 

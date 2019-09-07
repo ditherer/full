@@ -24,7 +24,8 @@ https://pasta.stream:8443/live/main/index.m3u8
 http://75.101.159.235:1935/live/test/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xAVVVdY.jpg" group-title="24/7",Pasta Alt
-https://grandma.blab.email/uplynk.m3u8
+http://11rpl.panip.xyz/hls/live.m3u8
+# https://grandma.blab.email/uplynk.m3u8
 # http://espn.tmedia.me/cache/espn2.m3u8?token=Xi0AAC7lN2rFKZO5wGi7DA&e=1562039723
 # https://pasta.stream/IPTV/espnm3u8?id=856&bitrate=4500&.m3u8
 # http://voo.memesyndicate.com/uplynk.m3u8
@@ -33,7 +34,7 @@ https://grandma.blab.email/uplynk.m3u8
 # https://hls.pasta.stream:8443/live/alt/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7",Current Event 1
-http://buffstreamz.com/emb/r.m3u8
+http://buffstreamz.com/emb/s.m3u8
 # http://bfst.to/emb/e.m3u8
 # http://motorsport-us.cf:8081
 # http://11.nosto.xyz/hls/live.m3u8
@@ -48,7 +49,7 @@ http://buffstreamz.com/emb/r.m3u8
 # https://hls.pasta.stream:8443/live/hbo/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 2 
-http://11rpl.panip.xyz/hls/live.m3u8  
+http://lan4.doubl.xyz/hls/lshch4hd17/chunks.m3u8 
 # http://cdnnfl.youpit.site/live/fox/chunks.m3u8
 # http://11.lurex.xyz/hls/live.m3u8
 # http://motorsport-us.cf:8082
@@ -94,7 +95,10 @@ http://tekken.gmrst.xyz/hls/ufc/playlist.m3u8
 # http://crackstreams.com/mma2.m3u8
 # http://37.48.83.12:8081/live/TNT/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/j55hDLp.png" group-title="24/7", Current Event 5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 5
+http://103.194.171.52:1935/hls/MMA/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/j55hDLp.png" group-title="24/7", Current Event 6
 https://christoperjosephc.s3-accelerate.amazonaws.com/bears.m3u8
 # http://103.194.171.52:1935/hls/NFL/chunks.m3u8
 # http://acdnnfl.youpit.site/live/espn/chunks.m3u8

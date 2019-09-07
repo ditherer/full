@@ -68,7 +68,7 @@ http://lan4.doubl.xyz/hls/lshch4hd17/chunks.m3u8
 # https://hls.pasta.stream:8443/live/show/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 3
-http://dab.allenz.xyz/hls/ufc.m3u8
+http://cracked4.allenz.xyz/hls/ufc.m3u8
 # https://freelocaltv.netlify.com/wgal.m3u8 works
 # http://storage.gmrst.xyz/hls/espn+/playlist.m3u8
 # http://givemereddit.gizmostream.pw/hls/live1/playlist.m3u8
@@ -173,6 +173,7 @@ http://80.82.64.144/hls/ESPN.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/a/a5/Abc_Logo.png" group-title="Sports",ABC
 http://zubacz.xyz/watch/abc.m3u8
+# http://185.39.11.76:8080/live/ABC.m3u8
 # http://cdnnfl.youpit.site/live/abc/chunks.m3u8
 # http://cdn2.nbacdn.xyz/live/abc/playlist.m3u8 from http://newbusiness.space/athletics-yankees/
 # http://80.82.64.144/hls/ABC.m3u8

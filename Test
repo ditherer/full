@@ -154,7 +154,8 @@ https://pasta.stream/IPTV/espnm3u8?id=856&bitrate=4500&.m3u8
 # http://remote.pasta.stream:8085/live/alt/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pfBfl7i.jpg" buffer="10" group-title="Sports", ESPN 2
-http://yrsprts.xyz/hls/m3.m3u8?ch=espn2
+http://zubacz.xyz/watch/espn2.m3u8
+# http://yrsprts.xyz/hls/m3.m3u8?ch=espn2
 # http://yoursports.stream/hls/xyss.m3u8?ch=espn2
 # http://espn.clinicalkey.icu/cache/espn2.m3u8
 # can replace espn with espnews or espnu

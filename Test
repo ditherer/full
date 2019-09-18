@@ -143,7 +143,7 @@ https://laurenkwiliamd.s3-accelerate.amazonaws.com/nfltv.m3u8
 # http://voo.memesyndicate.com/nbc.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pfBfl7i.jpg" buffer="10" group-title="Sports", ESPN
-https://pasta.stream/IPTV/espnm3u8?id=856&bitrate=3000&.m3u8
+https://pasta.stream/IPTV/espnm3u8?id=856&bitrate=4500&.m3u8
 # http://yrsprts.xyz/hls/m3.m3u8?ch=spn
 # http://yrsprts.xyz/hls/stream.m3u8?ch=espn
 # http://80.82.64.144/hls/ESPN.m3u8 areaworldsgist
@@ -175,8 +175,9 @@ http://zubacz.xyz/watch/espn2.m3u8
 # http://espn.clinicalkey.icu/cache/espn2.m3u8
 # can replace espn with espnews or espnu
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pfBfl7i.jpg" buffer="10" group-title="Sports", ESPN Tennis
-https://sports24.win/espn/espnt.m3u8?ch=louis
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pfBfl7i.jpg" buffer="10" group-title="Sports", ESPN Low Q
+https://pasta.stream/IPTV/espnm3u8?id=856&bitrate=2200&.m3u8
+# https://sports24.win/espn/espnt.m3u8?ch=louis
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/a/a5/Abc_Logo.png" group-title="Sports", ESPN News
 http://185.246.209.109:8080/ESPN_NEWS/index.m3u8

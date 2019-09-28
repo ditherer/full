@@ -53,7 +53,8 @@ https://gmaplace.cf/test.m3u8
 # https://hls.pasta.stream:8443/live/hbo/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 2
-http://buffstreamz.com/emb/1rne.m3u8
+http://103.194.171.52:1935/hls/BOX-1/playlist.m3u8
+# http://buffstreamz.com/emb/1rne.m3u8
 # http://acdn.youpit.site/live/nfl15/chunks.m3u8
 # http://buffstreamz.com/emb/rnr.m3u8
 # http://cdnnfl.youpit.site/live/nfl2/chunks.m3u8
@@ -75,13 +76,14 @@ http://buffstreamz.com/emb/1rne.m3u8
 # https://hls.pasta.stream:8443/live/show/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 3
-http://badbunny.gmrst.xyz/hls/nflnw/playlist.m3u8
+http://tombrady.gmrst.xyz/hls/ufc/playlist.m3u8
 # http://uiujuyhg.i-twittstream.com/hls/redzones/chunks.m3u8
 # http://get.gmrs.website/hls/espn+/chunks.m3u8
 # http://info.gmrs-cdn.xyz/hls/browns-vs-titans/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 3 Chief
-https://gma2.blab.email/fox.m3u8
+http://1a1rpl.nosto.xyz/hls/live.m3u8
+# https://gma2.blab.email/fox.m3u8
 # http://cdn.9live.host/live/rz/chunks.m3u8
 # http://sv4.doxeaz06.cf/live/RedZone/chunks.m3u8
 # http://cdnnfl.youpit.site/live/nfl4/chunks.m3u8

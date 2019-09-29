@@ -35,7 +35,8 @@ http://75.101.159.235:1935/live/test/playlist.m3u8
 # https://hls.pasta.stream:8443/live/alt/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7",Current Event 1
-http://m00a.redhezi.com/index.m3u8
+http://buffstreamz.com/emb/rdv.m3u8
+# http://m00a.redhezi.com/index.m3u8
 # https://gmaplace.cf/test.m3u8
 # http://cdn4.youpit.site/live/nflred/chunks.m3u8
 # http://cdn.9live.host/live/rz/chunks.m3u8
@@ -53,10 +54,8 @@ http://m00a.redhezi.com/index.m3u8
 # https://hls.pasta.stream:8443/live/hbo/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 2
-http://103.194.171.4/live/H3/playlist.m3u8
-# http://buffstreamz.com/emb/1rne.m3u8
-# http://acdn.youpit.site/live/nfl15/chunks.m3u8
-# http://buffstreamz.com/emb/rnr.m3u8
+http://crack.warriorz.xyz/hls/redzone.m3u8
+# http://103.194.171.4/live/H3/playlist.m3u8
 # http://cdnnfl.youpit.site/live/nfl2/chunks.m3u8
 # http://cdnnfl.youpit.site/live/fox/chunks.m3u8
 # http://11.lurex.xyz/hls/live.m3u8
@@ -76,13 +75,14 @@ http://103.194.171.4/live/H3/playlist.m3u8
 # https://hls.pasta.stream:8443/live/show/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 3
-http://tombrady.gmrst.xyz/hls/ufc/playlist.m3u8
+http://cdn.youpit.site/live/redh/chunks.m3u8
+# http://tombrady.gmrst.xyz/hls/ufc/playlist.m3u8
 # http://uiujuyhg.i-twittstream.com/hls/redzones/chunks.m3u8
 # http://get.gmrs.website/hls/espn+/chunks.m3u8
 # http://info.gmrs-cdn.xyz/hls/browns-vs-titans/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 3 Chief
-http://1a1rpl.nosto.xyz/hls/live.m3u8
+http://cdn.youpit.site/live/nfl5/chunks.m3u8
 # https://gma2.blab.email/fox.m3u8
 # http://cdn.9live.host/live/rz/chunks.m3u8
 # http://sv4.doxeaz06.cf/live/RedZone/chunks.m3u8
@@ -100,7 +100,7 @@ http://1a1rpl.nosto.xyz/hls/live.m3u8
 # http://crackstreams.com/nba.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 4 Pats
-http://35.239.45.175/live/nfltv/chunks.m3u8
+http://cdn.youpit.site/live/nfl4/chunks.m3u8
 # http://cdnnfl.youpit.site/live/nfl7/chunks.m3u8
 # http://tekken.gmrst.xyz/hls/ufc/playlist.m3u8
 # http://tekken.gmrst.xyz/hls/nbc/playlist.m3u8
@@ -116,18 +116,19 @@ http://35.239.45.175/live/nfltv/chunks.m3u8
 # http://crackstreams.com/mma2.m3u8
 # http://37.48.83.12:8081/live/TNT/chunks.m3u8
 
-# EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 5 Steel
-# http://cdnnfl.youpit.site/live/nfl9/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 5 Raven
+http://cdn.youpit.site/live/nfl3/chunks.m3u8
 # http://103.194.171.52:1935/hls/MMA/chunks.m3u8
 
-# EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event Houston
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 6 Houston
+http://cdn.youpit.site/live/nfl6/chunks.m3u8
 # http://cdnnfl.youpit.site/live/nfl6/chunks.m3u8
 
-# EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event Green
-# http://cdnnfl.youpit.site/live/nfl5/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 7 Raid
+http://cdn.youpit.site/live/nfl7/chunks.m3u8
 
-# EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event Charg
-# http://cdnnfl.youpit.site/live/nfl4/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 8 Charg
+http://cdn.youpit.site/live/nfl8/chunks.m3u8
 
 # EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event Bungul
 # http://cdnnfl.youpit.site/live/nfl3/chunks.m3u8

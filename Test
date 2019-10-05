@@ -35,7 +35,7 @@ http://75.101.159.235:1935/live/test/playlist.m3u8
 # https://hls.pasta.stream:8443/live/alt/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7",Current Event 1
-http://buffstreamz.com/emb/22.m3u8
+http://buffstreamz.com/emb/2.m3u8
 # http://m00a.redhezi.com/index.m3u8
 # https://gmaplace.cf/test.m3u8
 # http://cdn4.youpit.site/live/nflred/chunks.m3u8
@@ -54,7 +54,8 @@ http://buffstreamz.com/emb/22.m3u8
 # https://hls.pasta.stream:8443/live/hbo/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 2
-http://cdn.60fps.live/live/nfl1/chunks.m3u8
+http://web.rankmeup.xyz/hls/ufc/playlist.m3u8
+# http://cdn.60fps.live/live/nfl1/chunks.m3u8
 # http://103.194.171.4/live/H3/playlist.m3u8
 # http://cdnnfl.youpit.site/live/nfl2/chunks.m3u8
 # http://cdnnfl.youpit.site/live/fox/chunks.m3u8
@@ -75,7 +76,8 @@ http://cdn.60fps.live/live/nfl1/chunks.m3u8
 # https://hls.pasta.stream:8443/live/show/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 3
-http://cdn.60fps.live/live/nfl/chunks.m3u8
+http://103.194.171.4/live/H1/playlist.m3u8
+# http://cdn.60fps.live/live/nfl/chunks.m3u8
 # http://cdn.youpit.site/live/redh/chunks.m3u8
 # http://tombrady.gmrst.xyz/hls/ufc/playlist.m3u8
 # http://uiujuyhg.i-twittstream.com/hls/redzones/chunks.m3u8
@@ -83,7 +85,7 @@ http://cdn.60fps.live/live/nfl/chunks.m3u8
 # http://info.gmrs-cdn.xyz/hls/browns-vs-titans/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 3 Ram
-http://cdn.youpit.site/live/nfl11a/chunks.m3u8
+http://jap.warriorz.xyz/hls/ufc.m3u8
 # https://gma2.blab.email/fox.m3u8
 # http://cdn.9live.host/live/rz/chunks.m3u8
 # http://sv4.doxeaz06.cf/live/RedZone/chunks.m3u8
@@ -101,7 +103,7 @@ http://cdn.youpit.site/live/nfl11a/chunks.m3u8
 # http://crackstreams.com/nba.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 4 Viks
-http://cdn.youpit.site/live/nfl12a/chunks.m3u8
+http://www.sports24.club/test/cv.m3u8?id=KCTVCBS
 # http://cdnnfl.youpit.site/live/nfl7/chunks.m3u8
 # http://tekken.gmrst.xyz/hls/ufc/playlist.m3u8
 # http://tekken.gmrst.xyz/hls/nbc/playlist.m3u8

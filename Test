@@ -120,7 +120,7 @@ http://www.sports24.club/test/cv.m3u8?id=KCTVCBS
 # http://37.48.83.12:8081/live/TNT/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 5 Bronco
-http://cdn.youpit.site/live/nfl13a/chunks.m3u8
+http://jap.warriorz.xyz/hls/box1.m3u8
 # http://103.194.171.52:1935/hls/MMA/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 6 Cowboy

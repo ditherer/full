@@ -35,7 +35,7 @@ http://75.101.159.235:1935/live/test/playlist.m3u8
 # https://hls.pasta.stream:8443/live/alt/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7",Current Event 1
-http://bfst.to/emb/43485353.m3u8
+http://the.cavaliersz.xyz/hls/redzone.m3u8
 # http://cdn.youpit.site/live/redh/chunks.m3u8
 # http://m00a.redhezi.com/index.m3u8
 # https://gmaplace.cf/test.m3u8
@@ -132,7 +132,8 @@ http://cdn.youpit.site/live/nfl13/chunks.m3u8
 # EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event Bungul
 # http://cdnnfl.youpit.site/live/nfl3/chunks.m3u8
 
-# EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/j55hDLp.png" group-title="24/7", Current Event 6 Net
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/j55hDLp.png" group-title="24/7", Current Event 6 Net
+http://the.spursz.xyz/hls/nfltv.m3u8
 # https://laurenkwiliamd.s3-accelerate.amazonaws.com/nfltv.m3u8
 # https://christoperjosephc.s3-accelerate.amazonaws.com/bears.m3u8
 # http://103.194.171.52:1935/hls/NFL/chunks.m3u8

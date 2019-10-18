@@ -24,7 +24,8 @@ https://pasta.stream:8443/live/main/index.m3u8
 http://75.101.159.235:1935/live/test/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xAVVVdY.jpg" group-title="24/7",Pasta Alt
-http://oofball.us/nats_mob.m3u8
+http://voo.memesyndicate.com/phillies.m3u8
+# http://oofball.us/nats_mob.m3u8
 # http://cdn.youpit.site/live/redh/chunks.m3u8
 # http://11rpl.panip.xyz/hls/live.m3u8
 # https://grandma.blab.email/uplynk.m3u8
@@ -36,7 +37,7 @@ http://oofball.us/nats_mob.m3u8
 # https://hls.pasta.stream:8443/live/alt/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7",Current Event 1
-http://sp240.gmrs.website/hls/redzone/chunks.m3u8
+http://jimmy.footyplay.xyz/hls/cheifs-rip/playlist.m3u8
 # http://cdn.youpit.site/live/redh/chunks.m3u8
 # http://m00a.redhezi.com/index.m3u8
 # https://gmaplace.cf/test.m3u8
@@ -56,7 +57,7 @@ http://sp240.gmrs.website/hls/redzone/chunks.m3u8
 # https://hls.pasta.stream:8443/live/hbo/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 2
-http://sp240.gmrs.website/hls/ufc/chunks.m3u8
+http://cdn.60fps.live/live/Broncos1/chunks.m3u8
 # http://cdn.60fps.live/live/nfl1/chunks.m3u8
 # http://103.194.171.4/live/H3/playlist.m3u8
 # http://cdnnfl.youpit.site/live/nfl2/chunks.m3u8
@@ -78,7 +79,7 @@ http://sp240.gmrs.website/hls/ufc/chunks.m3u8
 # https://hls.pasta.stream:8443/live/show/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 2
-http://cdn.youpit.site/live/nfl13/chunks.m3u8
+http://kimberelyrayowa.s3-accelerate.amazonaws.com/broncos.m3u8
 # http://103.194.171.4/live/H1/playlist.m3u8
 # http://cdn.60fps.live/live/nfl/chunks.m3u8
 # http://cdn.youpit.site/live/redh/chunks.m3u8
@@ -88,7 +89,7 @@ http://cdn.youpit.site/live/nfl13/chunks.m3u8
 # http://info.gmrs-cdn.xyz/hls/browns-vs-titans/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 3 
-http://xi1.setay.xyz/hls/live.m3u8
+http://sports24.club/test/cv.m3u8?id=FS1&q=pkgFS1Hi.m3u8
 # https://gma2.blab.email/fox.m3u8
 # http://cracked4.allenz.xyz/hls/ufc.m3u8
 # https://freelocaltv.netlify.com/wgal.m3u8 works

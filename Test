@@ -36,6 +36,9 @@ http://voo.memesyndicate.com/phillies.m3u8
 # https://voo.memesyndicate.com/csn-master.m3u8
 # https://hls.pasta.stream:8443/live/alt/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xAVVVdY.jpg" group-title="24/7",Pasta TNT
+https://pasta.stream/IPTV/tntm3u8?id=24998&bitrate=3000&.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7",Current Event 1
 http://cdn.youpit.site/live/tnt/chunks.m3u8
 # http://cdn.youpit.site/live/redh/chunks.m3u8
@@ -88,8 +91,8 @@ http://sp666.rankmeup.xyz/hls/tnt/playlist.m3u8
 # http://get.gmrs.website/hls/espn+/chunks.m3u8
 # http://info.gmrs-cdn.xyz/hls/browns-vs-titans/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 3 
-http://35.187.237.63/live/vov1/playlist.m3u8
+# EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 3 
+# http://35.187.237.63/live/vov1/playlist.m3u8
 # https://gma2.blab.email/fox.m3u8
 # http://cracked4.allenz.xyz/hls/ufc.m3u8
 # https://freelocaltv.netlify.com/wgal.m3u8 works

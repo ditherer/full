@@ -40,7 +40,7 @@ http://voo.memesyndicate.com/phillies.m3u8
 # https://pasta.stream/IPTV/tntm3u8?id=24998&bitrate=3000&.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7",Current Event 1
-http://lfuvgjdfmefrfb.vbtuv.club/live/6/chunks.m3u8
+http://cdn.youpit.site/live/espn/chunks.m3u8
 # http://cdn.youpit.site/live/redh/chunks.m3u8
 # http://m00a.redhezi.com/index.m3u8
 # https://gmaplace.cf/test.m3u8
@@ -60,7 +60,7 @@ http://lfuvgjdfmefrfb.vbtuv.club/live/6/chunks.m3u8
 # https://hls.pasta.stream:8443/live/hbo/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 2
-http://mvp.watchaseries.xyz/hls/lakers/playlist.m3u8
+http://www.sports24.club/test/cv.m3u8?id=ESPNHD
 # http://cdn.60fps.live/live/nfl1/chunks.m3u8
 # http://103.194.171.4/live/H3/playlist.m3u8
 # http://cdnnfl.youpit.site/live/nfl2/chunks.m3u8
@@ -160,7 +160,7 @@ http://the.spursz.xyz/hls/nfltv.m3u8
 # http://voo.memesyndicate.com/nbc.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pfBfl7i.jpg" buffer="10" group-title="Sports", ESPN
-http://yrsprts.xyz/hls/yss.m3u8?ch=spn
+http://espn.sports24.win/espn.m3u8
 # https://pasta.stream/IPTV/espnm3u8?id=856&bitrate=4500&.m3u8
 # https://pasta.stream/IPTV/espnm3u8?id=856&bitrate=4500&.m3u8
 # http://yrsprts.xyz/hls/m3.m3u8?ch=spn
@@ -188,7 +188,7 @@ http://yrsprts.xyz/hls/yss.m3u8?ch=spn
 # http://remote.pasta.stream:8085/live/alt/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pfBfl7i.jpg" buffer="10" group-title="Sports", ESPN 2
-http://yrsprts.xyz/hls/yss.m3u8?ch=espn2
+https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/index.m3u8
 # http://zubacz.xyz/neinz/video/espn2/f.m3u8
 # https://streamgenie.ga/files/m3u8/espn2up/master.m3u8
 # http://zubacz.xyz/watch/espn2.m3u8
@@ -197,7 +197,8 @@ http://yrsprts.xyz/hls/yss.m3u8?ch=espn2
 # http://espn.clinicalkey.icu/cache/espn2.m3u8
 # can replace espn with espnews or espnu
 
-# EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pfBfl7i.jpg" buffer="10" group-title="Sports", ESPN Low Q
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pfBfl7i.jpg" buffer="10" group-title="Sports", ESPN Low Q
+http://zubacz.xyz/neinz/video/espn/e.m3u8
 # https://pasta.stream/IPTV/espnm3u8?id=856&bitrate=2200&.m3u8
 # https://sports24.win/espn/espnt.m3u8?ch=louis
 

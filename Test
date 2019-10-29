@@ -161,8 +161,8 @@ http://gma2.blab.email/redzone.m3u8
 # http://voo.memesyndicate.com/nbc.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pfBfl7i.jpg" buffer="10" group-title="Sports", ESPN
-http://espn.sports24.win/espn.m3u8
-# https://pasta.stream/IPTV/espnm3u8?id=856&bitrate=4500&.m3u8
+https://pasta.stream/IPTV/espnm3u8?id=856&bitrate=4500&.m3u8
+# http://espn.sports24.win/espn.m3u8
 # https://pasta.stream/IPTV/espnm3u8?id=856&bitrate=4500&.m3u8
 # http://yrsprts.xyz/hls/m3.m3u8?ch=spn
 # http://yrsprts.xyz/hls/stream.m3u8?ch=espn
@@ -199,7 +199,8 @@ https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/index.m3u8
 # can replace espn with espnews or espnu
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pfBfl7i.jpg" buffer="10" group-title="Sports", ESPN Low Q
-http://zubacz.xyz/neinz/video/espn/e.m3u8
+https://pasta.stream/IPTV/espnm3u8?id=856&bitrate=2200&.m3u8
+# http://zubacz.xyz/neinz/video/espn/e.m3u8
 # https://pasta.stream/IPTV/espnm3u8?id=856&bitrate=2200&.m3u8
 # https://sports24.win/espn/espnt.m3u8?ch=louis
 

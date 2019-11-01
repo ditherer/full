@@ -103,7 +103,7 @@ http://clook.probooks.club/hls/heat/chunks.m3u8
 # http://sp1080.givemereddit.stream/hls/btsport/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 4 Steel NF
-http://wsjcvbmbvddnm-dbn.s3-accelerate.amazonaws.com/n.m3u8
+http://the.rondoz.xyz/show/nfl/chunks.m3u8
 # http://www.sports24.club/test/cv.m3u8?id=KCTVCBS
 # http://cdnnfl.youpit.site/live/nfl7/chunks.m3u8
 # http://tekken.gmrst.xyz/hls/ufc/playlist.m3u8
@@ -121,7 +121,7 @@ http://wsjcvbmbvddnm-dbn.s3-accelerate.amazonaws.com/n.m3u8
 # http://37.48.83.12:8081/live/TNT/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 5 Bronco
-http://clook.probooks.club/hls/49ers/chunks.m3u8
+http://the.rondoz.xyz/show/nfl/chunks.m3u8
 # http://the.celticsz.xyz/show/tnt/chunks.m3u8
 # http://cdn.youpit.site/live/nfl12/chunks.m3u8
 # http://103.194.171.52:1935/hls/MMA/chunks.m3u8
@@ -130,8 +130,8 @@ http://clook.probooks.club/hls/49ers/chunks.m3u8
 http://cdn.60fps.live/live/fox/chunks.m3u8
 # http://cdnnfl.youpit.site/live/nfl6/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 7 Raid
-http://gma2.blab.email/chiefs.m3u8
+# EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 7 Raid
+# http://gma2.blab.email/chiefs.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 8 Charg
 http://cdn66.casacam.net/hls/cardinals.m3u8

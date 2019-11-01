@@ -120,6 +120,13 @@ http://the.rondoz.xyz/show/nfl/chunks.m3u8
 # http://crackstreams.com/mma2.m3u8
 # http://37.48.83.12:8081/live/TNT/chunks.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event Clips
+http://sdsfvmbmbejdg.cvggjeigv.xyz/live/3/playlist.m3u8
+# http://gma2.blab.email/chiefs.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event Clips 2
+http://clook.probooks.club/hls/clippers/chunks.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 5 Bronco
 http://the.rondoz.xyz/show/nfl/chunks.m3u8
 # http://the.celticsz.xyz/show/tnt/chunks.m3u8
@@ -129,9 +136,6 @@ http://the.rondoz.xyz/show/nfl/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 6 Cowboy
 http://cdn.60fps.live/live/fox/chunks.m3u8
 # http://cdnnfl.youpit.site/live/nfl6/chunks.m3u8
-
-# EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 7 Raid
-# http://gma2.blab.email/chiefs.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 8 Charg
 http://cdn66.casacam.net/hls/cardinals.m3u8

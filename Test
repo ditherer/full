@@ -103,7 +103,7 @@ http://xxi.yzachu.xyz/hls/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 4 Steel NF
 http://topsy.geese.xyz/hls/nflnw/playlist.m3u8
-http://jhdfkdfuiemevn.rgdjb.me/e/chunks.m3u8
+# http://jhdfkdfuiemevn.rgdjb.me/e/chunks.m3u8
 # http://www.sports24.club/test/cv.m3u8?id=KCTVCBS
 # http://cdnnfl.youpit.site/live/nfl7/chunks.m3u8
 # http://tekken.gmrst.xyz/hls/ufc/playlist.m3u8

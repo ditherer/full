@@ -40,7 +40,7 @@ http://voo.memesyndicate.com/phillies.m3u8
 # https://pasta.stream/IPTV/tntm3u8?id=24998&bitrate=3000&.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7",Current Event 1
-http://pc1.paisy.xyz/hls/live.m3u8
+http://pc1.paisy.xyz/hls2/live.m3u8
 # http://cdn.youpit.site/live/redh/chunks.m3u8
 # http://m00a.redhezi.com/index.m3u8
 # https://gmaplace.cf/test.m3u8
@@ -60,7 +60,7 @@ http://pc1.paisy.xyz/hls/live.m3u8
 # https://hls.pasta.stream:8443/live/hbo/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 2
-http://thu.utahz.xyz/neinz/video/mma/ufc.m3u8
+http://103.194.171.66/hls/tnt.m3u8
 # http://35.189.38.247/live/vhi6/chunks.m3u8
 # http://103.194.171.4/live/H3/playlist.m3u8
 # http://cdnnfl.youpit.site/live/fox/chunks.m3u8
@@ -81,7 +81,7 @@ http://thu.utahz.xyz/neinz/video/mma/ufc.m3u8
 # https://hls.pasta.stream:8443/live/show/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 2
-http://50.7.92.58/hls/ufc.m3u8
+http://z.allenz.xyz//tnt.m3u8
 # http://cdn.youpits.com/live/nfl/chunks.m3u8
 # http://103.194.171.4/live/H1/playlist.m3u8
 # http://cdn.60fps.live/live/nfl/chunks.m3u8

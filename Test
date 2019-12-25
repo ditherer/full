@@ -61,7 +61,7 @@ http://fac.allenz.xyz/neinz/video/espn/espn.m3u8
 # https://hls.pasta.stream:8443/live/hbo/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 2
-ttp://164.68.124.111/fs2.m3u8
+http://164.68.124.111/fs2.m3u8
 # http://103.194.171.66/hls/tnt.m3u8
 # http://35.189.38.247/live/vhi6/chunks.m3u8
 # http://103.194.171.4/live/H3/playlist.m3u8
@@ -95,7 +95,7 @@ http://live.livesport247.live/live/Boston/chunks.m3u8
 # http://info.gmrs-cdn.xyz/hls/browns-vs-titans/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 3 
-http://sv4.doxeaz06.gq/live/Packers/chunks.m3u8
+http://pc1.paisy.xyz/hls/live.m3u8
 # http://la.cdniptv.com:4444/US_TNT/index.m3u8
 # https://gma2.blab.email/fox.m3u8
 # https://freelocaltv.netlify.com/wgal.m3u8 works
@@ -103,8 +103,8 @@ http://sv4.doxeaz06.gq/live/Packers/chunks.m3u8
 # http://103.194.171.4:1935/abr/abr-S-1/playlist.m3u8
 # http://sp1080.givemereddit.stream/hls/btsport/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 4 
-http://oliviamarefalsab.gcdn.co/lv1/111.m3u8
+# EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 4 
+# http://oliviamarefalsab.gcdn.co/lv1/111.m3u8
 # http://103.194.171.4/live/H2/chunks.m3u8
 # http://103.194.171.66/hls/tv38.m3u8
 # http://www.sports24.club/test/cv.m3u8?id=KCTVCBS

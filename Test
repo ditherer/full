@@ -21,7 +21,7 @@ http://live.memesyndicate.com/live/fucknetresult/index.m3u8
 # http://rtmp.pasta.stream:8080/live/main/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://krtnradio.com/wp/wp-content/uploads/2015/05/Unknown.jpeg" group-title="Sports",Blabseal
-http://54.226.235.152:1935/live/test/playlist.m3u8
+http://50.17.103.3:1935/live/test/playlist.m3u8
 # http://75.101.159.235:1935/live/test/playlist.m3u8
 
 # EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xAVVVdY.jpg" group-title="24/7",Pasta Alt
@@ -41,7 +41,7 @@ http://54.226.235.152:1935/live/test/playlist.m3u8
 # https://pasta.stream/IPTV/tntm3u8?id=24998&bitrate=3000&.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7",Current Event 1
-http://fac.allenz.xyz/neinz/video/espn/espn.m3u8
+http://fac.allenz.xyz/neinz/video/espn/f.m3u8
 # http://cdn.youpit.site/live/redh/chunks.m3u8
 # http://m00a.redhezi.com/index.m3u8
 # https://gmaplace.cf/test.m3u8

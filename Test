@@ -41,7 +41,7 @@ http://50.17.103.3:1935/live/test/playlist.m3u8
 # https://pasta.stream/IPTV/tntm3u8?id=24998&bitrate=3000&.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7",Current Event 1
-http://cdn.sports24.win/espn.m3u8
+http://vjauehgfnmeyr.xyz/live/5/chunks.m3u8
 # http://cdn.youpit.site/live/redh/chunks.m3u8
 # http://m00a.redhezi.com/index.m3u8
 # https://gmaplace.cf/test.m3u8
@@ -83,7 +83,7 @@ http://gma2.blab.email/bills.m3u8
 # https://hls.pasta.stream:8443/live/show/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 2
-http://live.livesport247.live/live/Boston/chunks.m3u8
+https://lisaugoodmana.s3-accelerate.amazonaws.com/5ff9bbb8_lbseahawks_hd_4500_pc.m8
 # http://z.allenz.xyz//tnt.m3u8
 # http://cdn.youpits.com/live/nfl/chunks.m3u8
 # http://103.194.171.4/live/H1/playlist.m3u8
@@ -103,8 +103,8 @@ http://pc1.paisy.xyz/hls/live.m3u8
 # http://103.194.171.4:1935/abr/abr-S-1/playlist.m3u8
 # http://sp1080.givemereddit.stream/hls/btsport/chunks.m3u8
 
-# EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 4 
-# http://oliviamarefalsab.gcdn.co/lv1/111.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 4 
+http://34.102.207.198/live/seahawks/chunks.m3u8
 # http://103.194.171.4/live/H2/chunks.m3u8
 # http://103.194.171.66/hls/tv38.m3u8
 # http://www.sports24.club/test/cv.m3u8?id=KCTVCBS
@@ -124,14 +124,14 @@ http://pc1.paisy.xyz/hls/live.m3u8
 # http://37.48.83.12:8081/live/TNT/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event NFL
-http://cdn.youpits.com/live/abc/chunks.m3u8
+http://v651.azureedge.net/hls/seahawks/playlist.m3u8
 # http://gma2.blab.email/chiefs.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event Clips 2
 http://allenz.xyz/neinz/video/nba/lac.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 5 Low
-https://martinjyounga.s3-accelerate.amazonaws.com/cac3b5cc_lbvikings_hd_4500_pc.m8
+https://lisaugoodmana.s3-accelerate.amazonaws.com/5ff9bbb8_lbseahawks_hd_1600_pc.m8
 # http://the.celticsz.xyz/show/tnt/chunks.m3u8
 # http://cdn.youpit.site/live/nfl12/chunks.m3u8
 # http://103.194.171.52:1935/hls/MMA/chunks.m3u8

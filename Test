@@ -21,7 +21,8 @@ http://live.memesyndicate.com/live/fucknetresult/index.m3u8
 # http://rtmp.pasta.stream:8080/live/main/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://krtnradio.com/wp/wp-content/uploads/2015/05/Unknown.jpeg" group-title="Sports",Blabseal
-http://50.17.103.3:1935/live/test/playlist.m3u8
+http://54.225.202.251:1935/live/test/playlist.m3u8
+# http://50.17.103.3:1935/live/test/playlist.m3u8
 # http://75.101.159.235:1935/live/test/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xAVVVdY.jpg" group-title="24/7",Pasta Alt
@@ -42,7 +43,7 @@ https://voo.memesyndicate.com/test3.m3u8
 # https://pasta.stream/IPTV/tntm3u8?id=24998&bitrate=3000&.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7",Current Event 1
-https://e7.cdn4.us/ingest666/espn_usa.m3u8
+http://gma2.blab.email/espnu.m3u8
 # http://cdn.youpit.site/live/redh/chunks.m3u8
 # http://m00a.redhezi.com/index.m3u8
 # https://gmaplace.cf/test.m3u8
@@ -62,7 +63,9 @@ https://e7.cdn4.us/ingest666/espn_usa.m3u8
 # https://hls.pasta.stream:8443/live/hbo/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 2
-http://cdn.sports24.win/espn.m3u8
+http://crack2.azureegde.net/espn.m3u8
+# Crack^
+# http://cdn.sports24.win/espn.m3u8
 # http://103.194.171.66/hls/tnt.m3u8
 # http://35.189.38.247/live/vhi6/chunks.m3u8
 # http://103.194.171.4/live/H3/playlist.m3u8
@@ -84,7 +87,7 @@ http://cdn.sports24.win/espn.m3u8
 # https://hls.pasta.stream:8443/live/show/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 2
-https://lisaugoodmana.s3-accelerate.amazonaws.com/5ff9bbb8_lbseahawks_hd_4500_pc.m8
+http://185.233.186.32:8080/live/ESPN.m3u8
 # http://z.allenz.xyz//tnt.m3u8
 # http://cdn.youpits.com/live/nfl/chunks.m3u8
 # http://103.194.171.4/live/H1/playlist.m3u8
@@ -105,7 +108,7 @@ http://pc1.paisy.xyz/hls/live.m3u8
 # http://sp1080.givemereddit.stream/hls/btsport/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 4 
-http://34.102.207.198/live/seahawks/chunks.m3u8
+http://gma2.blab.email/espn2.m3u8
 # http://103.194.171.4/live/H2/chunks.m3u8
 # http://103.194.171.66/hls/tv38.m3u8
 # http://www.sports24.club/test/cv.m3u8?id=KCTVCBS

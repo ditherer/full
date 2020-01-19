@@ -63,7 +63,7 @@ http://gma2.blab.email/espnu.m3u8
 # https://hls.pasta.stream:8443/live/hbo/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 2
-http://gma2.blab.email/espn.m3u8
+http://34.107.242.203/live/abc/chunks.m3u8
 # Crack http://crack2.azureegde.net/espn.m3u8
 # http://cdn.sports24.win/espn.m3u8
 # http://103.194.171.66/hls/tnt.m3u8
@@ -87,7 +87,7 @@ http://gma2.blab.email/espn.m3u8
 # https://hls.pasta.stream:8443/live/show/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 2
-http://pc1.paisy.xyz/hls4/live.m3u8
+http://the.azureegde.net/ufc.m3u8
 # http://z.allenz.xyz//tnt.m3u8
 # http://cdn.youpits.com/live/nfl/chunks.m3u8
 # http://103.194.171.4/live/H1/playlist.m3u8
@@ -99,7 +99,7 @@ http://pc1.paisy.xyz/hls4/live.m3u8
 # http://info.gmrs-cdn.xyz/hls/browns-vs-titans/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 3 
-http://34.107.173.50/live/nba/chunks.m3u8
+http://cdn.crackstreams.net/live/MMA/index.m3u8
 # http://la.cdniptv.com:4444/US_TNT/index.m3u8
 # https://gma2.blab.email/fox.m3u8
 # https://freelocaltv.netlify.com/wgal.m3u8 works
@@ -108,7 +108,16 @@ http://34.107.173.50/live/nba/chunks.m3u8
 # http://sp1080.givemereddit.stream/hls/btsport/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 3 
-https://hls389417.r-cdn.com/trn_61803/823/576p/playlist.m3u8
+https://roserodriguez.s3.amazonaws.com/hls/ufc.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 3 
+http://cdn45.azureedge.net/hls/ppv2/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 3 
+http://pc1.paisy.xyz/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 3 
+http://35.194.81.224/live/cha1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 4 
 http://gma2.blab.email/espn2.m3u8

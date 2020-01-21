@@ -56,8 +56,8 @@ http://pc1.paisy.xyz/hls/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event Rip Change
 http://pc1.paisy.xyz/hls7/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event H1
-http://103.194.171.4/live/H1/playlist.m3u8
+# EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event H1
+# http://103.194.171.4/live/H1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 60fps Heat
 http://34.107.242.203/live/Heat/playlist.m3u8

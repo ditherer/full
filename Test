@@ -25,7 +25,7 @@ http://54.225.202.251:1935/live/test/playlist.m3u8
 # http://50.17.103.3:1935/live/test/playlist.m3u8
 # http://75.101.159.235:1935/live/test/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xAVVVdY.jpg" group-title="24/7",Pasta Alt
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xAVVVdY.jpg" group-title="24/7",ESPN 
 https://voo.memesyndicate.com/test3.m3u8
 # http://voo.memesyndicate.com/phillies.m3u8
 # http://oofball.us/nats_mob.m3u8
@@ -39,183 +39,37 @@ https://voo.memesyndicate.com/test3.m3u8
 # https://voo.memesyndicate.com/csn-master.m3u8
 # https://hls.pasta.stream:8443/live/alt/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", ESPN 2 
+http://gma2.blab.email/espn2.m3u8
+
 # EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xAVVVdY.jpg" group-title="24/7",Pasta TNT
 # https://pasta.stream/IPTV/tntm3u8?id=24998&bitrate=3000&.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7",Current Event 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", ESPN U
 http://gma2.blab.email/espnu.m3u8
 # http://cdn.youpit.site/live/redh/chunks.m3u8
-# http://m00a.redhezi.com/index.m3u8
-# https://gmaplace.cf/test.m3u8
-# http://cdn4.youpit.site/live/nflred/chunks.m3u8
-# http://cdn.9live.host/live/rz/chunks.m3u8
-# http://bfst.to/emb/e.m3u8
-# http://motorsport-us.cf:8081
-# http://11.nosto.xyz/hls/live.m3u8
-# http://nbastreams.xyz/espn2.m3u8
-# http://crackstreams.com/ufc.m3u8
-# http://103.194.171.4:1935/live/S-1/playlist.m3u8
-# http://www.365betstream.pw/soccer/playlist.m3u8
-# http://163.172.218.205:8081/T/1/index.m3u8
-# http://c5.nba4live.club/hls/1.m3u8
-# cycle 1 for more games
-# https://www.reddit.com/user/nba4live2019
-# https://hls.pasta.stream:8443/live/hbo/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 2
-http://nfl.yrsprts.xyz/hls/c.m3u8?ch=ufc
-# Crack http://crack2.azureegde.net/espn.m3u8
-# http://cdn.sports24.win/espn.m3u8
-# http://103.194.171.66/hls/tnt.m3u8
-# http://35.189.38.247/live/vhi6/chunks.m3u8
-# http://103.194.171.4/live/H3/playlist.m3u8
-# http://cdnnfl.youpit.site/live/fox/chunks.m3u8
-# http://11.lurex.xyz/hls/live.m3u8
-# http://motorsport-us.cf:8082
-# http://crackstreams.com/ufc.m3u8
-# http://11.buffed.site/hls/live.m3u8
-# https://live11.hotstar.com/hls/live/2003694/icccwc2019/eng/15mindvrm01e8vmyy4ss216june2019/master_1.m3u8
-# http://bnk.bankai.stream/espn4.m3u8
-# http://bnk.bankai.stream/espn2.m3u8
-# http://94.102.56.145/hls/abc.m3u8
-# http://bnk.bankai.stream/espn2.m3u8
-# http://37.48.83.12:8081/live/tnt/chunks.m3u8
-# http://cdn.youpit.site/live/yp1/chunks.m3u8
-# http://bnk.sportz.is/espn2.m3u8
-# http://pasta.stream/IPTV/tnt.m3u8
-# http://voo.memesyndicate.com/wolf.m3u8
-# https://hls.pasta.stream:8443/live/show/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 2
-http://the.azureegde.net/ufc.m3u8
-# http://z.allenz.xyz//tnt.m3u8
-# http://cdn.youpits.com/live/nfl/chunks.m3u8
-# http://103.194.171.4/live/H1/playlist.m3u8
-# http://cdn.60fps.live/live/nfl/chunks.m3u8
-# http://cdn.youpit.site/live/redh/chunks.m3u8
-# http://tombrady.gmrst.xyz/hls/ufc/playlist.m3u8
-# http://uiujuyhg.i-twittstream.com/hls/redzones/chunks.m3u8
-# http://get.gmrs.website/hls/espn+/chunks.m3u8
-# http://info.gmrs-cdn.xyz/hls/browns-vs-titans/playlist.m3u8
-
-# EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 3 
-# http://cdn.crackstreams.net/live/MMA/index.m3u8
-# http://la.cdniptv.com:4444/US_TNT/index.m3u8
-# https://gma2.blab.email/fox.m3u8
-# https://freelocaltv.netlify.com/wgal.m3u8 works
-# http://motorsport-us.cf:8083
-# http://103.194.171.4:1935/abr/abr-S-1/playlist.m3u8
-# http://sp1080.givemereddit.stream/hls/btsport/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 3 
-https://roserodriguez.s3.amazonaws.com/hls/ufc.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 3 
-http://cdn45.azureedge.net/hls/ppv2/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 3 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event Rip 1
 http://pc1.paisy.xyz/hls/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 3 
-http://35.194.81.224/live/cha1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event Rip Change
+http://pc1.paisy.xyz/hls7/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 4 
-http://gma2.blab.email/espn2.m3u8
-# http://103.194.171.4/live/H2/chunks.m3u8
-# http://103.194.171.66/hls/tv38.m3u8
-# http://www.sports24.club/test/cv.m3u8?id=KCTVCBS
-# http://cdnnfl.youpit.site/live/nfl7/chunks.m3u8
-# http://tekken.gmrst.xyz/hls/ufc/playlist.m3u8
-# http://tekken.gmrst.xyz/hls/nbc/playlist.m3u8
-# https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:nbc.smil/playlist.m3u8 works
-# http://techjaffa.com/ufc.m3u8
-# http://103.194.171.52:1935/hls/MMA/chunks.m3u8
-# http://103.194.171.85/hls/live/chunks.m3u8  giveme
-# http://103.194.171.85/hls/live1/chunks.m3u8 cyclingenter
-# http://motorsport-us.cf:8081
-# http://crackstreams.com/mma4.m3u8
-# http://crackstreams.com/nba2.m3u8
-# http://ec2-184-72-239-149.compute-1.amazonaws.com/live/pregame/playlist.m3u8
-# http://crackstreams.com/mma2.m3u8
-# http://37.48.83.12:8081/live/TNT/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event H1
+http://103.194.171.4/live/H1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event NFL
-http://v651.azureedge.net/hls/seahawks/playlist.m3u8
-# http://gma2.blab.email/chiefs.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 60fps Heat
+http://34.107.242.203/live/Heat/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event Clips 2
-http://allenz.xyz/neinz/video/nba/lac.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event TNT AceSports 
+http://azxsdfewqsa.ddnsfree.com:8080/hls/tnt.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 5 Low
-https://lisaugoodmana.s3-accelerate.amazonaws.com/5ff9bbb8_lbseahawks_hd_1600_pc.m8
-# http://the.celticsz.xyz/show/tnt/chunks.m3u8
-# http://cdn.youpit.site/live/nfl12/chunks.m3u8
-# http://103.194.171.52:1935/hls/MMA/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event GregBlack
+http://103.194.171.52:8081/hls/BOX-5/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 6 Cowboy
-https://martinjyounga.s3-accelerate.amazonaws.com/cac3b5cc_lbvikings_hd_1600_pc.m8
-# http://cdnnfl.youpit.site/live/nfl6/chunks.m3u8
 
-# EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 8 Charg
-# http://cdn66.casacam.net/hls/cardinals.m3u8
-# http://cdn.youpit.site/live/nfl8/chunks.m3u8
-
-# EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event Bungul
-# http://cdnnfl.youpit.site/live/nfl3/chunks.m3u8
-
-# EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/j55hDLp.png" group-title="24/7", Current Event 6 Net
-# http://the.spursz.xyz/hls/nfltv.m3u8
-# https://laurenkwiliamd.s3-accelerate.amazonaws.com/nfltv.m3u8
-# https://christoperjosephc.s3-accelerate.amazonaws.com/bears.m3u8
-# http://103.194.171.52:1935/hls/NFL/chunks.m3u8
-# http://acdnnfl.youpit.site/live/espn/chunks.m3u8
-# http://103.194.171.52:1935/hls/MMA/chunks.m3u8
-# GregoryBlack
-
-# EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/j55hDLp.png" group-title="24/7", Grandma Redzone
-# http://gma2.blab.email/redzone.m3u8
-# http://zubacz.xyz/watch/espn.m3u8
-# http://bnk.bankai.stream/espn2.m3u8
-# http://crackstreams.com/nba1.m3u8
-# http://37.48.83.12:8081/live/TNT/chunks.m3u8
-# http://streams.easysport.tv/live/easysport1/chunks.m3u8
-# http://185.246.209.220/tnt_hd/tracks-v1a1/mono.m3u8
-# http://1520893312.rsc.contentproxy9.cz/TNT/index.m3u8
-# http://azulitocdn.ga/live/Rockets/chunks.m3u8
-# http://voo.memesyndicate.com/nbc.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pfBfl7i.jpg" buffer="10" group-title="Sports", ESPN
-http://cdn.youpits.com/live/espn/chunks.m3u8
-# http://164.68.124.111/redskins.m3u8
-# http://allenz.xyz/neinz/video/espn/f.m3u8
-# https://pasta.stream/IPTV/espnm3u8?id=856&bitrate=4500&.m3u8
-# http://espn.sports24.win/espn.m3u8
-# https://pasta.stream/IPTV/espnm3u8?id=856&bitrate=4500&.m3u8
-# http://yrsprts.xyz/hls/m3.m3u8?ch=spn
-# http://yrsprts.xyz/hls/stream.m3u8?ch=espn
-# http://80.82.64.144/hls/ESPN.m3u8 areaworldsgist
-# http://streamgenie.ga/files/test/espn/master.m3u8
-# https://yoursports.stream/hls/xyss.m3u8?ch=espn
-# http://espn.clinicalkey.icu/cache/espn1.m3u8, http://live.9live.club/hls/espn1.m3u8?token=fZ1wlxmRkJH7RdEKWAcO_g&e=1566187628
-# http://34.66.74.0/live/sea-min/chunks.m3u8
-# https://pasta.stream/IPTV/espn.m3u8
-# http://espn.clinicalkey.icu/cache/espn1.m3u8
-# http://198.255.114.146:8080/ESPN/index.m3u8
-# http://bnk.sportz.is/espn2.m3u8
-# http://sports24.club/live/m3u8/x2.m3u8?ch=espn1
-# http://198.255.114.146:8080/ESPN/tracks-v1a1/mono.m3u8
-# http://espn.clinicalkey.icu/cache/espn1.m3u8
-# https://www.reddit.com/user/penn451
-# 2 and abc,sec similar http://us-sf.9livestream.com/cache/espn1.m3u8
-# http://voo.memesyndicate.com/uplynk.m3u8
-# http://voo.memesyndicate.com/espn/espn-p-4500.m3u8
-# https://hls.pasta.stream:8443/live/espn/index.m3u8
-# http://rtmp.pasta.stream:8085/live/espn/index.m3u8
-# http://voo.memesyndicate.com/espn.m3u8
-# buffer="10000" put in espn kek and grandma after jpg quotes
-# http://remote.pasta.stream:8085/live/alt/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pfBfl7i.jpg" buffer="10" group-title="Sports", ESPN 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pfBfl7i.jpg" buffer="10" group-title="Sports", ESPN Backup
 https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/index.m3u8
 # http://zubacz.xyz/neinz/video/espn2/f.m3u8
 # https://streamgenie.ga/files/m3u8/espn2up/master.m3u8
@@ -225,57 +79,8 @@ https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/index.m3u8
 # http://espn.clinicalkey.icu/cache/espn2.m3u8
 # can replace espn with espnews or espnu
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pfBfl7i.jpg" buffer="10" group-title="Sports", ESPN Low Q
-http://allenz.xyz/neinz/video/espn2/f.m3u8
-# https://pasta.stream/IPTV/espnm3u8?id=856&bitrate=2200&.m3u8
-# http://zubacz.xyz/neinz/video/espn/e.m3u8
-# https://pasta.stream/IPTV/espnm3u8?id=856&bitrate=2200&.m3u8
-# https://sports24.win/espn/espnt.m3u8?ch=louis
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/a/a5/Abc_Logo.png" group-title="Sports", ESPN News
-http://185.246.209.109:8080/ESPN_NEWS/index.m3u8
-# https://yoursports.stream/hls/xyss.m3u8?ch=espnnews
-# http://espn.clinicalkey.icu/cache/abc.m3u8
-# http://acesports.win/abc.m3u8
-# http://159.89.142.208/ne2/index.m3u8
-# http://198.255.114.146:8080/TNT/index.m3u8
-# http://www.365betstream.pw/stream/live3/playlist.m3u8
-# http://d3ta49zynby19h.cloudfront.net/live.m3u8
-# http://voo.memesyndicate.com/abc.m3u8
-# http://icelz.6te.net/abc.m3u8
-# https://klive-a.akamaihd.net/dc-1/live/hls/p/2306121/e/1_gesowtz8/sd/6000/t/y1SPmwgq_dJfURQEoU8kUA/master.m3u8
-# http://sasastreams.pw/abc.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pfBfl7i.jpg" buffer="10" group-title="Sports", ESPN News
-http://80.82.64.144/hls/ESPN.m3u8
-# http://streamgenie.ga/files/m3u8/espnup/master.m3u8
-# http://yoursports.stream/hls/stream.m3u8?ch=espn2
-# http://streamgenie.ga/files/test/espn/master.m3u8
-# http://espn.clinicalkey.icu/cache/espnews.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/a/a5/Abc_Logo.png" group-title="Sports",ABC
-http://zubacz.xyz/watch/abc.m3u8
-# http://185.39.11.76:8080/live/ABC.m3u8
-# http://cdnnfl.youpit.site/live/abc/chunks.m3u8
-# http://cdn2.nbacdn.xyz/live/abc/playlist.m3u8 from http://newbusiness.space/athletics-yankees/
-# http://80.82.64.144/hls/ABC.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/a/a5/Abc_Logo.png" group-title="Sports", NFL Network
-http://akamaihd.xyz/live/nflnet/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/a/a5/Abc_Logo.png" group-title="Sports",CBS
-https://centstreams.ml/cbs.m3u8
-# https://pasta.stream/IPTV/espn.m3u8
-# http://1520893312.rsc.contentproxy9.cz/CBS/index.m3u8
-# http://hollyuanderson.s3-accelerate.amazonaws.com/espn.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/a/a5/Abc_Logo.png" group-title="Sports",NBC
-https://centstreams.ml/nbc.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/a/a5/Abc_Logo.png" group-title="Sports",FOX
-https://centstreams.ml/fox.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pmcdeadline2.files.wordpress.com/2018/01/golf-channel-logo.jpg" group-title="Sports",GOLF 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pmcdeadline2.files.wordpress.com/2018/01/golf-channel-logo.jpg" group-title="Sports",GOLF 2596
 http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/a/a5/Abc_Logo.png" group-title="Sports",Hackey
@@ -317,16 +122,6 @@ http://1996frank.seekseedrtl.info/91/91.m3u8
 # http://mn.seekseedrtl.info/91/91.m3u8
 # http://op.90mingoal.com/91/91.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.underconsideration.com/brandnew/archives/nba_others_nba_tv.png" group-title="Sports", Navi 2
-http://1996frank.seekseedrtl.info/92/92.m3u8
-# http://g.bankai.stream/espn2.m3u8
-# http://ripple.is/live/espn3.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.underconsideration.com/brandnew/archives/nba_others_nba_tv.png" group-title="Sports", Navi 3
-http://1996frank.seekseedrtl.info/93/93.m3u8
-# http://g.bankai.stream/espn2.m3u8
-# http://ripple.is/live/espn3.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pfBfl7i.jpg" group-title="Sports",CNBC
 https://1674331492.rsc.cdn77.org/LS-ATL-54548-14/tracks-v1a1/mono.m3u8
 # https://vip7stream.pw/lba/123/g4/bt3sport.m3u8
@@ -336,40 +131,6 @@ https://1674331492.rsc.cdn77.org/LS-ATL-54548-14/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pfBfl7i.jpg" group-title="Sports",Bloomberg
 https://bblive-liveproduseast.hs.llnwd.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 # http://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8 adaptive
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.underconsideration.com/brandnew/archives/nba_others_nba_tv.png" group-title="Sports", Current Event 1 
-http://11.lurex.xyz/hls2/live.m3u8
-# http://cdn.givemereddit.stream:8081/live/skyhd/chunks.m3u8
-# http://crackstreams.com/nba1.m3u8
-# https://pasta.stream/IPTV/tntm3u8?id=24998&bitrate=4500&.m3u8
-# http://cdn.youpit.site/live/btsport/chunks.m3u8
-# http://azulitocdn.cf/live/Thunder/chunks.m3u8
-# http://g.bankai.stream/espn2.m3u8
-# http://ripple.is/live/espn3.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6v5aFgb.jpg" group-title="Sports", Current Event 2
-http://crackstreams.com/ppv3.m3u8
-# http://cdn.youpit.site/live/yp4/chunks.m3u8
-# http://cdn.youpit.site/live/yp3/chunks.m3u8
-# http://11.upsil.live/hls3/live.m3u8
-# http://doxeaz06.cf/live/Clippers/chunks.m3u8
-# http://365betstream.pw/stream/live11/playlist.m3u8
-
-# EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2.bp.blogspot.com/-V3sYLaSAJ4Y/UPor1iFQeGI/AAAAAAAAV8o/Yixri3Xad20/s1600/Food+Network+logo+2013.jpg" group-title="24/7", Current Event 3 
-http://test900.gcdn.co/e/05.m3u8
-# http://cdn9.azureedge.eu/live/d/index.m3u8
-# http://37.48.83.12:8081/live/live1/chunks.m3u8
-# http://1520893312.rsc.contentproxy9.cz/NBA_TV/index.m3u8
-# http://doxeaz06.cf/live/Nuggets/chunks.m3u8
-# http://neuclnlds225.akamaized.ml/live/nfl/chunks.m3u8
-# http://atlas.its.virginia.edu:8088/hls/m3u8/CBS.m3u8
-# cycle cbs for fox,nbc
-# http://hls.pasta.stream:8443/live/food/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6v5aFgb.jpg" group-title="Sports", Current Event 4
-http://gmrstream.watchaseries.xyz/hls/itvhd/playlist.m3u8
-# https://goldenstreamer.com/hls/exprestream1/chunks.m3u8
-# http://streams.easysport.tv/live/easysport1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gjBAU2S.png" group-title="Sports",NFL Network
 http://hollyuanderson.s3-accelerate.amazonaws.com/nflnetwork.m3u8
@@ -401,32 +162,6 @@ http://tvecsnbayarea-i.akamaihd.net/hls/live/219791/CSNbayareax/2596k/prog.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://espntheundefeated.files.wordpress.com/2017/05/nba-logo.png" group-title="24/7",Chicago
 http://tvecsnchicago-i.akamaihd.net/hls/live/219793/CSNchicagox/2596k/prog.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://slam.canoe.com/Slam/Wrestling/2014/08/13/UPDATED_WWE_Network_logo_on_White_SM.jpg" group-title="Sports",Test
-http://dada.dkexrq9z1fk9.ga/hls/mma1.m3u8
-# http://37.48.83.12:8081/HLS/GMR-DET-BRN/chunks.m3u8
-# http://www.hhhssssss.com/hls/live12/index.m3u8
-# https://mediafusion-lh.akamaihd.net/i/Live_1@727634/index_1_av-b.m3u8
-# http://legacy.pasta.stream/WWE/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cutcabletoday.com/wp-content/uploads/2017/08/stadium.jpg" group-title="Sports",Stadium Sports
-https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-# https://04476b7c682c4da8b8b4bfe23ef879c1.midas.us-east-1.amazonaws.com/v1/master/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/hls/live/522512/mux_4/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.underconsideration.com/brandnew/archives/nba_others_nba_tv.png" group-title="Sports", ESPN/ABC(Ripple2)
-http://bnk.sports.iz/espn3.m3u8
-# http://ripple.is/live/espn4.m3u8
-
-# EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.cdn.tntdrama.com/assets/images/2018/03/NBAonTNT-TempSolve2-900x360.png" group-title="Sports",NBA TV/TNT LP(Buff)
-# https://d2wg5428jzl05m.cloudfront.net/index_1.m3u8
-# http://live.ronaldo7.ga/stream/bt2/chunks.m3u8
-
-# EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/B/boston-red-sox-logo-21F446678F-seeklogo.com.png" group-title="Sports",Pasta RedSox
-# http://remote.pasta.stream:8085/live/sox/index.m3u8
-
-# EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/03/TNT_Logo.png" group-title="Sports",TNT Icel
-# https://ssh101.com/m3u8/dyn/tnt2/index.m3u8
-# http://icelz.6te.net/tnt2.m3u8
-# from http://sasastreams.pw/tnt2.php?id=east
 
 # EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.groovypost.com/wp-content/uploads/2014/12/watch-ESPN-Logo.png" group-title="Sports", ESPN(Onurb Ace)
 # https://sprtbayarearsn-lh.akamaihd.net/i/sprtrsnbayarea_1@320710/index_3450_av-b.m3u8

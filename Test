@@ -46,22 +46,22 @@ http://gma2.blab.email/espn2.m3u8
 # https://pasta.stream/IPTV/tntm3u8?id=24998&bitrate=3000&.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", ESPN U
-http://gma2.blab.email/espnu.m3u8
-# http://cdn.youpit.site/live/redh/chunks.m3u8
+http://gma2.blab.email/espnews.m3u8
+# espnu.m3u8 http://cdn.youpit.site/live/redh/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event Rip 1
 http://pc1.paisy.xyz/hls/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event Rip Change
-http://pc1.paisy.xyz/hls3/live.m3u8
+http://yo.azureegde.net/tnt.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event H1Crack
-http://yo.azureegde.net/espn.m3u8
+http://103.194.171.52:8081/hls/P-5/chunks.m3u
 # http://103.194.171.4/live/H1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 60fps Heat
-http://34.107.242.203/live/Heat/playlist.m3u8
+http://pc1.paisy.xyz/hls4/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event TNT AceSports 
 https://e7.cdn4.us/ingest666/espn_usa.m3u8

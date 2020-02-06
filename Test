@@ -55,7 +55,8 @@ http://gma2.blab.email/espnews.m3u8
 http://pc1.paisy.xyz/hls/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event Rip Change
-http://yo.azureegde.net/tnt.m3u8
+http://pc1.paisy.xyz/hls3/live.m3u8
+# http://yo.azureegde.net/tnt.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event H1Crack
 http://oliviamarefalsab.gcdn.co/lv3/3.m3u8
@@ -70,7 +71,8 @@ http://103.194.171.52:8081/hls/P-1/chunks.m3u8
 # http://103.194.171.52:8081/hls/MMA/chunks.m3u8
 # http://azxsdfewqsa.ddnsfree.com:8080/hls/tnt.m3u8
 
-# EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event GregBlack
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event Azul Clippers
+http://lavarel.site/live/Clippers/chunks.m3u8
 # http://103.194.171.52:8081/hls/BOX/playlist.m3u8
 
 

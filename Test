@@ -26,7 +26,7 @@ http://54.225.202.251:1935/live/test/playlist.m3u8
 # http://75.101.159.235:1935/live/test/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xAVVVdY.jpg" group-title="24/7",ESPN 
-http://boxingstreams.xyz/neinz/video/espn/espn.m3u8
+http://yo.azureegde.net/espn.m3u8
 # https://voo.memesyndicate.com/test3.m3u8
 # http://voo.memesyndicate.com/phillies.m3u8
 # http://oofball.us/nats_mob.m3u8
@@ -55,16 +55,19 @@ http://gma2.blab.email/espnews.m3u8
 http://pc1.paisy.xyz/hls/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event Rip Change
-http://pc1.paisy.xyz/hls3/live.m3u8
+http://pc1.paisy.xyz/hls8/live.m3u8
 # http://yo.azureegde.net/tnt.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event H1Crack
-http://62.171.130.255/hls/T-3/playlist.m3u8
+https://e7.cdn4.us/ingest666/espn_usa.m3u8
+# FreeSportsforAll
 # http://103.194.171.52:8081/hls/P-5/chunks.m3u8
 # http://103.194.171.4/live/H1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 60fps Heat
-http://35.244.197.47/live/nba/chunks.m3u8
+http://us.ocache.xyz/sports/espn.m3u8
+# http://oomovie.net/
+# http://35.244.197.47/live/nba/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event TNT AceSports 
 http://103.194.171.52:8081/hls/P-1/chunks.m3u8
@@ -75,6 +78,8 @@ http://103.194.171.52:8081/hls/P-1/chunks.m3u8
 http://lavarel.site/live/Clippers/chunks.m3u8
 # http://103.194.171.52:8081/hls/BOX/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pfBfl7i.jpg" buffer="10" group-title="Sports", ESPN Backup
+https://gma2.blab.email/fs2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pfBfl7i.jpg" buffer="10" group-title="Sports", ESPN Backup
 https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/index.m3u8

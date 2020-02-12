@@ -58,19 +58,20 @@ http://pc1.paisy.xyz/hls/live.m3u8
 http://pc1.paisy.xyz/hls8/live.m3u8
 # http://yo.azureegde.net/tnt.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event H1Crack Rocket
-http://35.244.174.243/live/Rockets/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 60fps
+http://35.244.174.243/live/nba/chunks.m3u8
 # http://yo.azureegde.net/fox.m3u8
 # https://e7.cdn4.us/ingest666/espn_usa.m3u8
 # FreeSportsforAll
 # http://103.194.171.52:8081/hls/P-5/chunks.m3u8
 # http://103.194.171.4/live/H1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event H1Crack Heat
-http://35.244.174.243/live/Blazers/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event Crack
+http://yo.azureegde.net/tnt.m3u8
+# http://35.244.174.243/live/Blazers/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 60fps Heat
-http://us.ocache.xyz/sports/espn.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event Buff
+http://oliviamarefalsab.gcdn.co/lv1/1.m3u8
 # http://oomovie.net/
 # http://35.244.197.47/live/nba/chunks.m3u8
 
@@ -79,9 +80,14 @@ http://us.ocache.xyz/sports/espn.m3u8
 # http://103.194.171.52:8081/hls/MMA/chunks.m3u8
 # http://azxsdfewqsa.ddnsfree.com:8080/hls/tnt.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event Azul Clippers
-http://lavarel.site/live/Clippers/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event Azul
+http://lavarel.site/live/76ers/chunks.m3u8
+# http://lavarel.site/live/Clippers/chunks.m3u8
 # http://103.194.171.52:8081/hls/BOX/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event Solaris
+http://live.roominatemarketing.com/live/1/chunks.m3u8
+# http://quaynet.us/
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pfBfl7i.jpg" buffer="10" group-title="Sports", ESPN Backup
 https://gma2.blab.email/fs2.m3u8
@@ -96,6 +102,9 @@ https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/index.m3u8
 # http://espn.clinicalkey.icu/cache/espn2.m3u8
 # can replace espn with espnews or espnu
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pfBfl7i.jpg" buffer="10" group-title="Sports", Marky Clippers
+http://sv.livesport247.live/live/Clippers/playlist.m3u8
+# http://6stream.xyz/
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pmcdeadline2.files.wordpress.com/2018/01/golf-channel-logo.jpg" group-title="Sports",GOLF 2596
 http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8

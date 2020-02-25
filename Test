@@ -14,6 +14,10 @@ http://live.memesyndicate.com/live/fucknetresult/index.m3u8
 # http://108.61.245.2/live/thx/index.m3u8
 # http://nicks.memesyndicate.com/acleetv/acleetv/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pfBfl7i.jpg" buffer="10" group-title="Sports",Aclee Alt
+https://live.memesyndicate.com/live/thxnetresult/index.m3u8
+# https://memesyndicate.com/alt.php
+
 # EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xAVVVdY.jpg" group-title="Sports",Pasta LoL
 # https://pasta.stream:8443/live/main/index.m3u8
 # https://hls.pasta.stream:8443/live/main/index.m3u8

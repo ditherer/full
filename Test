@@ -56,10 +56,11 @@ http://gma2.blab.email/espnews.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event Rip 1
-http://pc1.paisy.xyz/hls/live.m3u8
+https://1da9sm33.com/hls/n10.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event Rip Change
-http://yo.azureegde.net/espn.m3u8
+http://cdn.odece.xyz/1.m3u8
+# http://yo.azureegde.net/espn.m3u8
 # http://yo.azureegde.net/tnt.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event 60fps
@@ -71,21 +72,21 @@ http://35.244.174.243/live/nba/chunks.m3u8
 # http://103.194.171.4/live/H1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event Crack
-http://yo.azureegde.net/tnt.m3u8
+http://yo.azureegde.net/ufc.m3u8
 # http://35.244.174.243/live/Blazers/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event Buff
-http://oliviamarefalsab.gcdn.co/lv1/1.m3u8
+http://cdn.odece.xyz/6.m3u8
 # http://oomovie.net/
 # http://35.244.197.47/live/nba/chunks.m3u8
 
-# EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event TNT AceSports 
-# http://103.194.171.52:8081/hls/P-1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event TNT AceSports 
+http://cdn.crackstreams.net/live/MMA/index.m3u8
 # http://103.194.171.52:8081/hls/MMA/chunks.m3u8
 # http://azxsdfewqsa.ddnsfree.com:8080/hls/tnt.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IcDwo5X.png" group-title="24/7", Current Event Azul
-http://lavarel.site/live/76ers/chunks.m3u8
+http://yts.azureedge.net/hls/ufc/chunks.m3u8
 # http://lavarel.site/live/Clippers/chunks.m3u8
 # http://103.194.171.52:8081/hls/BOX/playlist.m3u8
 
@@ -107,11 +108,15 @@ https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/index.m3u8
 # can replace espn with espnews or espnu
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pfBfl7i.jpg" buffer="10" group-title="Sports", Marky Clippers
-http://sv.livesport247.live/live/Clippers/playlist.m3u8
+http://190.80.3.28/FOX/FOX.isml/index.m3u8
+# http://sv.livesport247.live/live/Clippers/playlist.m3u8
 # http://6stream.xyz/
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pmcdeadline2.files.wordpress.com/2018/01/golf-channel-logo.jpg" group-title="Sports",GOLF 2596
 http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pfBfl7i.jpg" buffer="10" group-title="Sports", NBC
+http://190.80.3.28/NBC/NBC.isml/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/a/a5/Abc_Logo.png" group-title="Sports",Hackey
 http://hackey.stream/hls/test.m3u8
